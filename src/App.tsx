@@ -4,6 +4,8 @@ import HomePage from './pages/HomePage'
 import AboutPage from './pages/AboutPage'
 import ProjectsPage from './pages/ProjectsPage'
 import NotesPage from './pages/NotesPage'
+import BlogPage from './pages/BlogPage'
+import BlogPostPage from './pages/BlogPostPage'
 import CodePage from './pages/CodePage'
 
 function App() {
@@ -19,7 +21,7 @@ function App() {
             </div>
             <div className="hidden h-1.5 w-1.5 rounded-full bg-white/30 md:block" />
             <div className="hidden text-xs text-[color:var(--muted)] md:block">
-              studio notes - projects - code
+              studio notes - blog - projects - code
             </div>
           </div>
 
@@ -30,7 +32,7 @@ function App() {
                 [
                   'relative rounded-md px-3 py-1.5 transition hover:text-white',
                   'after:pointer-events-none after:absolute after:inset-x-3 after:-bottom-0.5 after:h-px',
-                  'after:bg-gradient-to-r after:from-violet-300 after:via-cyan-200 after:to-rose-300 after:opacity-0 after:transition',
+                  'after:bg-gradient-to-r from-violet-300 via-cyan-200 to-rose-300 after:opacity-0 after:transition',
                   isActive ? 'bg-white/6 text-white after:opacity-100' : 'hover:bg-white/5 hover:after:opacity-80',
                 ].join(' ')
               }
@@ -44,7 +46,7 @@ function App() {
                 [
                   'relative rounded-md px-3 py-1.5 transition hover:text-white',
                   'after:pointer-events-none after:absolute after:inset-x-3 after:-bottom-0.5 after:h-px',
-                  'after:bg-gradient-to-r after:from-violet-300 after:via-cyan-200 after:to-rose-300 after:opacity-0 after:transition',
+                  'after:bg-gradient-to-r from-violet-300 via-cyan-200 to-rose-300 after:opacity-0 after:transition',
                   isActive ? 'bg-white/6 text-white after:opacity-100' : 'hover:bg-white/5 hover:after:opacity-80',
                 ].join(' ')
               }
@@ -57,7 +59,7 @@ function App() {
                 [
                   'relative rounded-md px-3 py-1.5 transition hover:text-white',
                   'after:pointer-events-none after:absolute after:inset-x-3 after:-bottom-0.5 after:h-px',
-                  'after:bg-gradient-to-r after:from-violet-300 after:via-cyan-200 after:to-rose-300 after:opacity-0 after:transition',
+                  'after:bg-gradient-to-r from-violet-300 via-cyan-200 to-rose-300 after:opacity-0 after:transition',
                   isActive ? 'bg-white/6 text-white after:opacity-100' : 'hover:bg-white/5 hover:after:opacity-80',
                 ].join(' ')
               }
@@ -70,7 +72,7 @@ function App() {
                 [
                   'relative rounded-md px-3 py-1.5 transition hover:text-white',
                   'after:pointer-events-none after:absolute after:inset-x-3 after:-bottom-0.5 after:h-px',
-                  'after:bg-gradient-to-r after:from-violet-300 after:via-cyan-200 after:to-rose-300 after:opacity-0 after:transition',
+                  'after:bg-gradient-to-r from-violet-300 via-cyan-200 to-rose-300 after:opacity-0 after:transition',
                   isActive ? 'bg-white/6 text-white after:opacity-100' : 'hover:bg-white/5 hover:after:opacity-80',
                 ].join(' ')
               }
@@ -78,12 +80,25 @@ function App() {
               {t('nav.notes')}
             </NavLink>
             <NavLink
+              to="/blog"
+              className={({ isActive }) =>
+                [
+                  'relative rounded-md px-3 py-1.5 transition hover:text-white',
+                  'after:pointer-events-none after:absolute after:inset-x-3 after:-bottom-0.5 after:h-px',
+                  'after:bg-gradient-to-r from-violet-300 via-cyan-200 to-rose-300 after:opacity-0 after:transition',
+                  isActive ? 'bg-white/6 text-white after:opacity-100' : 'hover:bg-white/5 hover:after:opacity-80',
+                ].join(' ')
+              }
+            >
+              {t('nav.blog')}
+            </NavLink>
+            <NavLink
               to="/code"
               className={({ isActive }) =>
                 [
                   'relative rounded-md px-3 py-1.5 transition hover:text-white',
                   'after:pointer-events-none after:absolute after:inset-x-3 after:-bottom-0.5 after:h-px',
-                  'after:bg-gradient-to-r after:from-violet-300 after:via-cyan-200 after:to-rose-300 after:opacity-0 after:transition',
+                  'after:bg-gradient-to-r from-violet-300 via-cyan-200 to-rose-300 after:opacity-0 after:transition',
                   isActive ? 'bg-white/6 text-white after:opacity-100' : 'hover:bg-white/5 hover:after:opacity-80',
                 ].join(' ')
               }
@@ -99,30 +114,31 @@ function App() {
               <button
                 type="button"
                 onClick={() => setLang(lang === 'zh' ? 'en' : 'zh')}
-                className="rounded-md border border-[color:var(--border)] bg-white/5 px-3 py-1.5 text-xs text-[color:var(--ink)] transition hover:bg-white/10"
+                className="rounded-md bg-white/5 px-2 py-1 transition hover:bg-white/10 hover:text-white"
               >
-                {lang === 'zh' ? 'ZH / EN' : 'EN / ZH'}
+                {lang === 'zh' ? 'EN' : '??'}
               </button>
             </div>
           </nav>
         </div>
       </header>
 
-      <main className="mx-auto max-w-5xl px-4 py-10">
+      <main className="mx-auto max-w-5xl px-4 py-12 md:py-20">
         <Routes>
           <Route path="/" element={<HomePage />} />
           <Route path="/about" element={<AboutPage />} />
           <Route path="/projects" element={<ProjectsPage />} />
           <Route path="/notes" element={<NotesPage />} />
+          <Route path="/blog" element={<BlogPage />} />
+          <Route path="/blog/:id" element={<BlogPostPage />} />
           <Route path="/code" element={<CodePage />} />
         </Routes>
       </main>
 
-      <footer className="border-t border-[color:var(--border)] bg-white/0">
-        <div className="mx-auto max-w-5xl px-4 py-6 text-sm text-[color:var(--muted)]">
-          <span className="text-[color:var(--ink)]">(c) {new Date().getFullYear()}</span>
-          <span className="mx-2 text-[color:var(--muted)]">/</span>
-          {t('footer.builtWith')}
+      <footer className="mt-auto border-t border-[color:var(--border)] py-12">
+        <div className="mx-auto max-w-5xl px-4 text-center text-sm text-[color:var(--muted)]">
+          <p>{t('footer.builtWith')}</p>
+          <p className="mt-2 opacity-50">? {new Date().getFullYear()} Studio</p>
         </div>
       </footer>
     </div>
@@ -130,4 +146,3 @@ function App() {
 }
 
 export default App
-

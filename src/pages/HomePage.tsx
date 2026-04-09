@@ -1,4 +1,5 @@
-﻿import { useI18n } from '../i18n/i18n'
+import { Link } from 'react-router-dom'
+import { useI18n } from '../i18n/i18n'
 
 export default function HomePage() {
   const { t } = useI18n()
@@ -18,22 +19,28 @@ export default function HomePage() {
           {t('home.subtitle')}
         </p>
         <div className="mt-6 flex flex-wrap gap-3">
-          <a
+          <Link
             className="group relative overflow-hidden rounded-xl border border-white/10 bg-white/5 px-4 py-2 text-sm font-medium text-white transition hover:border-white/20 hover:bg-white/8"
-            href="/notes"
+            to="/blog"
           >
             <span className="absolute inset-0 opacity-0 transition group-hover:opacity-100">
               <span className="absolute -left-16 top-1/2 h-24 w-24 -translate-y-1/2 rounded-full bg-violet-400/25 blur-2xl" />
               <span className="absolute left-1/2 top-1/2 h-24 w-24 -translate-x-1/2 -translate-y-1/2 rounded-full bg-cyan-300/20 blur-2xl" />
             </span>
-            <span className="relative">{t('home.cta.notes')}</span>
-          </a>
-          <a
+            <span className="relative">{t('home.cta.blog')}</span>
+          </Link>
+          <Link
             className="rounded-xl border border-white/15 bg-transparent px-4 py-2 text-sm font-medium text-white/90 transition hover:border-white/25 hover:bg-white/8 hover:text-white"
-            href="/projects"
+            to="/notes"
+          >
+            {t('home.cta.notes')}
+          </Link>
+          <Link
+            className="rounded-xl border border-white/15 bg-transparent px-4 py-2 text-sm font-medium text-white/90 transition hover:border-white/25 hover:bg-white/8 hover:text-white"
+            to="/projects"
           >
             {t('home.cta.projects')}
-          </a>
+          </Link>
         </div>
       </section>
 

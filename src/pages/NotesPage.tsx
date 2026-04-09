@@ -17,10 +17,10 @@ type Note = {
 }
 
 const topics: Topic[] = [
-  { id: 'reading', zh: '\u8bfb\u4e66', en: 'Reading' },
-  { id: 'frontend', zh: '\u524d\u7aef', en: 'Frontend' },
-  { id: 'backend', zh: '\u540e\u7aef', en: 'Backend' },
-  { id: 'tools', zh: '\u5de5\u5177', en: 'Tools' },
+  { id: 'reading', zh: '读书', en: 'Reading' },
+  { id: 'frontend', zh: '前端', en: 'Frontend' },
+  { id: 'backend', zh: '后端', en: 'Backend' },
+  { id: 'tools', zh: '工具', en: 'Tools' },
 ]
 
 const notes: Note[] = [
@@ -28,10 +28,10 @@ const notes: Note[] = [
     id: 'note-reading-1',
     topicId: 'reading',
     date: '2026-04-08',
-    kind: { zh: '\u8bfb\u4e66\u7b14\u8bb0', en: 'Reading note' },
-    title: { zh: '\u300aXXX\u300b\u8bfb\u4e66\u7b14\u8bb0\uff08\u793a\u4f8b\uff09', en: 'Book XXX notes (example)' },
+    kind: { zh: '读书笔记', en: 'Reading note' },
+    title: { zh: '《XXX》读书笔记（示例）', en: 'Book XXX notes (example)' },
     summary: {
-      zh: '\u7528 3-5 \u53e5\u8bdd\u6982\u62ec\u8fd9\u672c\u4e66\u7684\u6838\u5fc3\u89c2\u70b9\u3001\u4f60\u6700\u53d7\u542f\u53d1\u7684\u7ae0\u8282\u4e0e\u884c\u52a8\u5efa\u8bae\u3002',
+      zh: '用 3-5 句话概括这本书的核心观点、你最受启发尊章节与行动建议。',
       en: 'Write 3-5 sentences: key ideas, most inspiring chapters, and actionable takeaways.',
     },
   },
@@ -39,10 +39,10 @@ const notes: Note[] = [
     id: 'note-fe-1',
     topicId: 'frontend',
     date: '2026-04-08',
-    kind: { zh: '\u5b66\u4e60\u7b14\u8bb0', en: 'Study note' },
-    title: { zh: 'React Router \u5165\u95e8\uff08\u793a\u4f8b\uff09', en: 'React Router quick start (example)' },
+    kind: { zh: '学习笔记', en: 'Study note' },
+    title: { zh: 'React Router 入门（示例）', en: 'React Router quick start (example)' },
     summary: {
-      zh: '\u8bb0\u5f55\u4f60\u5b66\u5230\u7684\u77e5\u8bc6\u70b9\u3001\u5e38\u89c1\u5751\uff0c\u4ee5\u53ca\u4e00\u6bb5\u6700\u5c0f\u53ef\u8fd0\u884c\u793a\u4f8b\u3002',
+      zh: '记录你学到的知识点、常见坑，以及一段最小可运行示例。',
       en: 'Capture what you learned, common pitfalls, and a minimal working example.',
     },
   },
@@ -101,30 +101,37 @@ export default function NotesPage() {
           </div>
         </aside>
 
-        <section className="grid gap-4">
-          {filtered.length === 0 ? (
-            <div className="glass-card rounded-3xl p-6 text-sm text-[color:var(--muted)]">
+        <main className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+          {filtered.length > 0 ? (
+            filtered.map((note) => (
+              <div
+                key={note.id}
+                className="glass-card flex flex-col rounded-3xl p-5 transition hover:-translate-y-0.5 hover:border-white/20"
+              >
+                <div className="flex items-center justify-between text-[10px] uppercase tracking-wider text-[color:var(--muted)]">
+                  <span>{lang === 'zh' ? note.kind.zh : note.kind.en}</span>
+                  <span>{note.date}</span>
+                </div>
+                <h3 className="art-title mt-3 text-base font-semibold text-[color:var(--ink)]">
+                  {lang === 'zh' ? note.title.zh : note.title.en}
+                </h3>
+                <p className="mt-2 flex-1 text-xs leading-relaxed text-[color:var(--muted)] line-clamp-3">
+                  {lang === 'zh' ? note.summary.zh : note.summary.en}
+                </p>
+                <div className="mt-4 flex items-center gap-1.5 text-[10px] font-medium text-cyan-400">
+                  <span>VIEW DETAILS</span>
+                  <svg viewBox="0 0 16 16" fill="none" className="h-3 w-3 stroke-current">
+                    <path d="M6.75 5.75 9.25 8l-2.5 2.25" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
+                  </svg>
+                </div>
+              </div>
+            ))
+          ) : (
+            <div className="col-span-full py-12 text-center text-sm text-[color:var(--muted)]">
               {t('notes.empty')}
             </div>
-          ) : (
-            filtered.map((n) => (
-              <article key={n.id} className="glass-card rounded-3xl p-6">
-                <div className="flex flex-wrap items-center gap-2 text-xs text-[color:var(--muted)]">
-                  <span className="rounded-full border border-[color:var(--border)] bg-white/5 px-2 py-1 text-[color:var(--ink)]">
-                    {lang === 'zh' ? n.kind.zh : n.kind.en}
-                  </span>
-                  <span>{n.date}</span>
-                </div>
-                <h2 className="art-title mt-3 text-lg font-semibold">
-                  {lang === 'zh' ? n.title.zh : n.title.en}
-                </h2>
-                <p className="mt-2 text-sm text-[color:var(--muted)]">
-                  {lang === 'zh' ? n.summary.zh : n.summary.en}
-                </p>
-              </article>
-            ))
           )}
-        </section>
+        </main>
       </div>
     </div>
   )

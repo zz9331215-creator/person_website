@@ -2,14 +2,14 @@ import { useI18n } from '../i18n/i18n'
 
 const projects = [
   {
-    name: '\u9879\u76ee A\uff08\u793a\u4f8b\uff09',
-    desc: '\u4e00\u53e5\u8bdd\u8bf4\u660e\u8fd9\u4e2a\u9879\u76ee\u89e3\u51b3\u4e86\u4ec0\u4e48\u95ee\u9898\uff0c\u6280\u672f\u6808\u662f\u4ec0\u4e48\u3002',
+    name: '项目 A（示例）',
+    desc: '一句话说明这个项目解决了什么问题，技术栈是什么。',
     tags: ['React', 'TypeScript'],
     link: 'https://github.com/yourname/your-project',
   },
   {
-    name: '\u9879\u76ee B\uff08\u793a\u4f8b\uff09',
-    desc: '\u53ef\u4ee5\u5199\u6210\u5de5\u5177\u3001\u8bfe\u7a0b\u9879\u76ee\u3001\u5f00\u6e90\u8d21\u732e\u7b49\u3002',
+    name: '项目 B（示例）',
+    desc: '可以写成工具、课程项目、开源贡献等。',
     tags: ['Node.js', 'API'],
     link: 'https://github.com/yourname/another-project',
   },
@@ -60,4 +60,3 @@ export default function ProjectsPage() {
     </div>
   )
 }
-

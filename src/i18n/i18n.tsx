@@ -16,16 +16,18 @@ const zh: Dict = {
   'nav.about': '关于',
   'nav.projects': '项目',
   'nav.notes': '笔记',
+  'nav.blog': '博客',
   'nav.code': '代码',
   'nav.lang': '语言',
 
   'site.title': '个人网站',
   'footer.builtWith': '由 Vite + React 构建',
 
-  'home.title': '你好，我是（你的名字）',
+  'home.title': '你好，我是 忘言',
   'home.subtitle':
     '这里是我的个人网站，用来整理读书笔记、学习笔记，展示一些代码与小项目，也会放个人介绍与项目经历。',
   'home.cta.notes': '去看笔记',
+  'home.cta.blog': '阅读博客',
   'home.cta.projects': '查看项目',
   'home.card.reading': '读书笔记',
   'home.card.readingTitle': '书籍要点与摘录',
@@ -54,6 +56,12 @@ const zh: Dict = {
   'notes.all': '全部',
   'notes.empty': '这个主题下还没有笔记。',
 
+  'blog.title': '博客',
+  'blog.subtitle': '分享一些深入的技术文章、个人见解与生活点滴。',
+  'blog.readMore': '阅读全文',
+  'blog.back': '返回列表',
+  'blog.empty': '还没有发布任何博客。',
+
   'code.title': '代码与程序',
   'code.subtitle': '这里适合放你常用的代码片段、脚本、小工具，或链接到 GitHub 仓库。',
 }
@@ -63,16 +71,18 @@ const en: Dict = {
   'nav.about': 'About',
   'nav.projects': 'Projects',
   'nav.notes': 'Notes',
+  'nav.blog': 'Blog',
   'nav.code': 'Code',
   'nav.lang': 'Language',
 
   'site.title': 'Personal Site',
   'footer.builtWith': 'Built with Vite + React',
 
-  'home.title': "Hi, I'm (Your Name)",
+  'home.title': "Hi, I'm WY",
   'home.subtitle':
     'This is my personal website for reading notes, study notes, code snippets, projects, and a short introduction.',
   'home.cta.notes': 'Read notes',
+  'home.cta.blog': 'Read blog',
   'home.cta.projects': 'View projects',
   'home.card.reading': 'Reading Notes',
   'home.card.readingTitle': 'Key takeaways & highlights',
@@ -102,9 +112,14 @@ const en: Dict = {
   'notes.all': 'All',
   'notes.empty': 'No notes in this topic yet.',
 
-  'code.title': 'Code',
-  'code.subtitle':
-    'A place for frequently used snippets, scripts, utilities, or links to GitHub repos.',
+  'blog.title': 'Blog',
+  'blog.subtitle': 'Sharing in-depth technical articles, personal insights, and life stories.',
+  'blog.readMore': 'Read More',
+  'blog.back': 'Back to list',
+  'blog.empty': 'No blog posts yet.',
+
+  'code.title': 'Code & Programs',
+  'code.subtitle': 'Reusable snippets, scripts, small utilities, or links to GitHub.',
 }
 
 const dictionaries: Record<Lang, Dict> = { zh, en }
@@ -147,4 +162,3 @@ export function useI18n() {
   if (!ctx) throw new Error('useI18n must be used within I18nProvider')
   return ctx
 }
-
