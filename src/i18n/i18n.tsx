@@ -25,7 +25,7 @@ const zh: Dict = {
 
   'home.title': '你好，我是 忘言',
   'home.subtitle':
-    '这里是我的个人网站，用来整理读书笔记、学习笔记，展示一些代码与小项目，也会放个人介绍与项目经历。',
+    '这里是我的个人网站，用来整理读书笔记、学习笔记，展示一些代码，项目经历。',
   'home.cta.notes': '去看笔记',
   'home.cta.blog': '阅读博客',
   'home.cta.projects': '查看项目',
@@ -41,14 +41,14 @@ const zh: Dict = {
 
   'about.title': '关于我',
   'about.subtitle':
-    '这里可以写你的简介、擅长领域、职业方向、以及你希望读者从这个网站获得什么。',
+    '怕什么真理无穷，进一寸有一寸的欢喜',
   'about.section.basic': '基本信息',
-  'about.basic.city': '所在城市：待填写',
-  'about.basic.focus': '方向：前端 / 后端 / 数据 / 其他（可改）',
-  'about.basic.contact': '联系：邮箱 / GitHub / 公众号（可改）',
+  'about.basic.city': '爱好:足球/摄影/电影/读书',
+  'about.basic.focus': '方向：嵌入式软件',
+  'about.basic.contact': '联系：邮箱 / GitHub / 公众号',
 
   'projects.title': '项目',
-  'projects.subtitle': '这里集中展示你做过的项目与个人作品，可以放链接、截图、与简要复盘。',
+  'projects.subtitle': '这里集中展示我做过的一些小项目。',
 
   'notes.title': '笔记',
   'notes.subtitle': '按主题归档，方便快速查找与复习。',
@@ -57,7 +57,7 @@ const zh: Dict = {
   'notes.empty': '这个主题下还没有笔记。',
 
   'blog.title': '博客',
-  'blog.subtitle': '分享一些深入的技术文章、个人见解与生活点滴。',
+  'blog.subtitle': '分享一些日常生活，记录生活的美好，谈一些个人的看法和理解。',
   'blog.readMore': '阅读全文',
   'blog.back': '返回列表',
   'blog.empty': '还没有发布任何博客。',
@@ -96,11 +96,11 @@ const en: Dict = {
 
   'about.title': 'About',
   'about.subtitle':
-    'Write your bio, strengths, focus area, and what readers can gain from this site.',
+    'Fear nothing, for every moment is a fresh beginning.',
   'about.section.basic': 'Basics',
-  'about.basic.city': 'City: TBD',
-  'about.basic.focus': 'Focus: Frontend / Backend / Data / Other',
-  'about.basic.contact': 'Contact: Email / GitHub / etc.',
+  'about.basic.city': 'Hobbies: Football / Photography / Movie / Reading',
+  'about.basic.focus': 'Focus: Embedded Software',
+  'about.basic.contact': 'Contact: Email / GitHub / WeChat',
 
   'projects.title': 'Projects',
   'projects.subtitle':
@@ -113,7 +113,7 @@ const en: Dict = {
   'notes.empty': 'No notes in this topic yet.',
 
   'blog.title': 'Blog',
-  'blog.subtitle': 'Sharing in-depth technical articles, personal insights, and life stories.',
+  'blog.subtitle': 'Daily sharing and life stories.',
   'blog.readMore': 'Read More',
   'blog.back': 'Back to list',
   'blog.empty': 'No blog posts yet.',

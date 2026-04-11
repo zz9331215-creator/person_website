@@ -2,9 +2,9 @@ import { useI18n } from '../i18n/i18n'
 
 const projects = [
   {
-    name: '项目 A（示例）',
-    desc: '一句话说明这个项目解决了什么问题，技术栈是什么。',
-    tags: ['React', 'TypeScript'],
+    name: '反恐排爆救援机器人项目',
+    desc: '自主设计制作一款满足竞赛尺寸规范的反恐排爆救援机器人，通过多模块协同实现二维码读取、颜色识别、激光打标、物体抓取、自主导航等核心功能，可在规定场地内完成排爆、反恐、救援全流程任务。',
+    tags: ['STM32', 'K230', 'PID','C语言','Python'],
     link: 'https://github.com/yourname/your-project',
   },
   {
