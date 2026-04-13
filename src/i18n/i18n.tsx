@@ -59,7 +59,7 @@ const zh: Dict = {
   'blog.title': '博客',
   'blog.subtitle': '分享一些日常生活，记录生活的美好，谈一些个人的看法和理解。',
   'blog.readMore': '阅读全文',
-  'blog.back': '返回列表',
+  'notes.back': '返回列表',
   'blog.empty': '还没有发布任何博客。',
 
   'code.title': '代码与程序',
@@ -115,7 +115,7 @@ const en: Dict = {
   'blog.title': 'Blog',
   'blog.subtitle': 'Daily sharing and life stories.',
   'blog.readMore': 'Read More',
-  'blog.back': 'Back to list',
+  'notes': 'Back to list',
   'blog.empty': 'No blog posts yet.',
 
   'code.title': 'Code & Programs',
