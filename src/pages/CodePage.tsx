@@ -59,6 +59,14 @@ const tools: Tool[] = [
     icon: '📚'
   },
   {
+    id: 'website-4',
+    name: 'IMDb',
+    description: '电影数据库和评分网站',
+    category: 'websites',
+    url: 'https://www.imdb.com/',
+    icon: '🎬'
+  },
+  {
     id: 'ai-1',
     name: 'OpenAI ChatGPT',
     description: '强大的 AI 语言模型',
