@@ -19,12 +19,12 @@ export default function ProjectsPage() {
   const { t } = useI18n()
 
   return (
-    <div className="space-y-6">
-      <header>
+    <div className="max-w-4xl mx-auto px-4 space-y-6">
+      <header className="text-center">
         <h1 className="art-title text-3xl font-semibold tracking-tight md:text-4xl">
           {t('projects.title')}
         </h1>
-        <p className="mt-2 max-w-2xl text-[color:var(--muted)]">
+        <p className="mt-2 max-w-2xl mx-auto text-[color:var(--muted)]">
           {t('projects.subtitle')}
         </p>
       </header>

@@ -44,9 +44,9 @@ export const notes: Note[] = [
 1. 赚钱不是一件想做就能做的事情，而是一门需要学习的技能。
 2. 赚钱跟工作的努力程度没什么必然联系。
 3. 要想获得财富，你就必须知道做什么、和谁一起做、什么时候做。与埋头苦干相比，更重要的是理解和思考。当然，努力非常重要，不能吝啬自己的努力，但必须选择正确的方式。
-4. 假设有一天，我创业失败，身无分文，这时把我随意丢到任何一个说英语的国家的街道上，我相信自己会在5年或10年内重新变得富有，因为我已经掌握了“赚钱”这门技巧，而这门技巧人人都能学会。
+4. 假设有一天，我创业失败，身无分文，这时把我随意丢到任何一个说英语的国家的街道上，我相信自己会在5年或10年内重新变得富有，因为我已经掌握了"赚钱"这门技巧，而这门技巧人人都能学会。
 5. 如果还不知道自己应该做什么，那么你先要弄清楚这个问题。在这之前，不要盲目发力。
-6. “把自己产品化”很难。所以我才说“把自己产品化”要花几十年——并不是要花几十年执行，而是要把大部分时间用于思考：我能提供什么独特的价值？
+6. "把自己产品化"很难。所以我才说"把自己产品化"要花几十年——并不是要花几十年执行，而是要把大部分时间用于思考：我能提供什么独特的价值？
 7. 金钱是我们转移财富的方式。金钱是社会的信用符号，具有调用别人时间的能力。
 8. 财富就是在你睡觉时也可以帮你赚钱的资产。财富是可以进行生产的工厂和机器人。财富是不分昼夜为客户服务的计算机程序。财富也可以是银行里被投资于其他资产或业务的钱。
 9. 我对财富的定义是在睡觉时也能带来收入的企业和资产。
@@ -55,11 +55,11 @@ export const notes: Note[] = [
 12. 下一步是思考如何规模化，因为只提供一个产品或一项服务是远远不够的，必须提供成千上万个，甚至几十万、几百万、几十亿个，最好人手一个。
 13. 找到天赋所在，积累专长。
 14. 专长无法被教授，但可以被学习。
-15. 在“成为自己”这件事情上，没有人能比得过你。其实，人生大部分时间都是在寻找，寻找那些最需要你的人，寻找那些最需要你的事情。
+15. 在"成为自己"这件事情上，没有人能比得过你。其实，人生大部分时间都是在寻找，寻找那些最需要你的人，寻找那些最需要你的事情。
 16. 但是我独一无二的长处是什么？我最终把时间花在了哪里？回顾过去，我发现我做得更多的都是围绕着赚钱，与技术打交道，与人打交道，推销产品，谈经论道，兜售理念。
 17. 有些人觉得销售很难，想知道怎样才能做到口齿伶俐、善于推销。事实上，如果你在现阶段仍不擅长做销售，或者对销售确实没什么兴趣，那么销售这个行业也许并不适合你，你还是要专注于自己真正喜欢的事情。
 18. 通过互联网，每个人都可以找到自己的受众。只要在网上进行独特的自我表达，你就有机会传播快乐，累积财富，打造产品，创立企业。
-19. “只有独辟蹊径，才能避开竞争。”从本质上看，竞争就是模仿，与他人竞争，是因为你跟别人在做一样的事情。但是，每个人都是独一无二的，不要模仿他人。
+19. "只有独辟蹊径，才能避开竞争。"从本质上看，竞争就是模仿，与他人竞争，是因为你跟别人在做一样的事情。但是，每个人都是独一无二的，不要模仿他人。
 20. 最好的工作与委任或学位无关。最好的工作是终身学习者在自由市场中的创造性表达。
 21. 在生活中，基本的算术能力比微积分更重要。同样，能够用简单的英语词汇清楚地表达比能够写诗、词汇量丰富或者说7种不同的语言重要得多。
 22. 一个人员只能在一两件事上做到精通，而这一两件事通常是让你痴迷的事情。
@@ -86,11 +86,11 @@ export const notes: Note[] = [
 43. 如果一件事物一开始让你兴致盎然，后来又让你觉得索然无味，那么它只是暂时分散了你的注意力，并不是你心智上真正的好奇所在。请继续寻找。
 44. 无论是创业、健身还是恋爱、交友，我始终都认为生命的意义在于专注于事情本身，体验过程，享受当下。
 45. 对一件事情的欲望越小，顾虑就越少，执念就越少，反而越会顺其自然，遵循内心。你会以自己擅长的方式，始终不渝地做下去，工作质量也会因此提高。
-46. 不要追逐所谓的“热门”，而要追求自己真正感兴趣的事情。如果在追随好奇心和求知欲的过程中又满足了社会需求，你就能得到优厚的经济回报。
+46. 不要追逐所谓的"热门"，而要追求自己真正感兴趣的事情。如果在追随好奇心和求知欲的过程中又满足了社会需求，你就能得到优厚的经济回报。
 47. 如果社会可以培训你，那么总有一天，社会也可以编写代码，用计算机取代你。
 48. 认真想一想，社会上还有哪些尚未得到满足的需求，而你怎样才能成为第一个提供相关产品或服务的人，并将其规模化。这才是赚钱真正的挑战。
 49. 总体而言，杠杆有三种。第一种是劳动力杠杆，资本是第二种相对较好的杠杆形式。
-50. 最后一种杠杆是最新出现的，也是普通人最触手可及的。这种杠杆就是“复制边际成本为零的产品”。其中包括书籍、媒体、电影、代码。在所有不需要他人许可就能使用的杠杆中，代码可以说是最强大的一种——只需要一台计算机就够了。
+50. 最后一种杠杆是最新出现的，也是普通人最触手可及的。这种杠杆就是"复制边际成本为零的产品"。其中包括书籍、媒体、电影、代码。在所有不需要他人许可就能使用的杠杆中，代码可以说是最强大的一种——只需要一台计算机就够了。
 51. 编程、写书、录播客、发推特、拍视频这些事情不需要经过任何人的许可。由此可见，新杠杆就像一个均衡器，极大地缩小了人与人之间的差距，让社会变得更平等。
 52. 靠出租自己的时间是永远无法致富的。
 53. 无论处于人生的哪个阶段，努力的目标都是不断提高自己的独立性，而不是升职加薪。拥有独立性，为自己独特的产出成果负责（而不是像打工一样为投入的时间负责），这才是最理想的状态。
@@ -106,7 +106,7 @@ export const notes: Note[] = [
 63. 不要做任何违法违纪的事情，任何事都不值得拿自己的自由和声誉去冒险。要避免一败涂地的灾难性损失。避免身败名裂也意味着不要做那些可能会威胁自身安全或健康的事情。你必须照顾好自己的身体。
 64. 不要做可能会让你全盘皆输的事情。不要孤注一掷、铤而走险。相反，要把赌注押在那些胜算较大、能带来巨大利益的事情上。
 65. 首席执行官的报酬之所以很高，就是因为杠杆效应。在判断力和能力上，毫厘之差都会有天壤之别。
-66. 巴菲特之所以被称为“股神”，是因为他的可信度极高。他对自己的业务极为负责，一次又一次在公开场合做出正确的判断。他以高度正直著称，赢得了社会的充分信任，加上他判断力出色，所以人们敢在他身上押上不计其数的筹码。
+66. 巴菲特之所以被称为"股神"，是因为他的可信度极高。他对自己的业务极为负责，一次又一次在公开场合做出正确的判断。他以高度正直著称，赢得了社会的充分信任，加上他判断力出色，所以人们敢在他身上押上不计其数的筹码。
 67. 在杠杆时代，在自己的领域做到极致非常重要。
 68. 普通人把时间浪费在短期思考上，浪费在毫无价值的繁重工作上。而巴菲特会用一年斟酌判断，然后用一天采取行动。他一天的行动可以影响未来几十年。
 69. 我的个人财富也不是在关键的一年迅速累积起来的，而是积水成渊：持续创造更多选择、更多业务、更多投资，探索更多在我能力范围内的事情。
@@ -124,7 +124,7 @@ export const notes: Note[] = [
 81. 最重要的是，要在重大决定上花更多时间。人生早期有三个重大决定：在哪里生活，和谁在一起，从事什么职业。
 82. 居住的城市几乎可以完全决定一个人的生活轨迹，但我们很少花时间认真思考哪个城市更宜居。
 83. 找到自己擅长的领域，然后用自己的技能去帮助他人：提供免费的产品或服务，主动向世界传递善意。好人终有好报。只要始终如一，假以时日，付出就一定能获得相应的回报。但不要计较自己付出了多少——一旦开始计较，耐心就会被消耗殆尽。
-84. 曾有上司告诫我：“你永远发不了大财。因为你的聪明显而易见、有目共睹，所以一直会有人给你提供‘刚刚好’的工作机会，让你觉得弃之可惜。”
+84. 曾有上司告诫我："你永远发不了大财。因为你的聪明显而易见、有目共睹，所以一直会有人给你提供'刚刚好'的工作机会，让你觉得弃之可惜。"
 85. 我知道有些人从未想过自己创业。社会的普遍共识是，给别人打工才符合常理，才是明智的选择。但仔细想想，这种长久存在的观点究竟是如何产生的？这种想法本身就带有明显的等级色彩。
 86. 我宁愿成为一个失败的创业者，也不愿成为一个从未尝试过创业的人。因为，即使是一个失败的创业者，也拥有独立打拼的技能。
 87. 我学会了如何赚钱，因为钱是生活必需品。当赚钱的必要性消失后，我就不再关心钱的问题了。至少对我个人来说，工作是达到目的的一种手段。当然，赚钱也是达到目的的一种手段。但跟赚钱相比，我对解决问题更感兴趣。
@@ -139,264 +139,147 @@ export const notes: Note[] = [
 96. 我把自由看得高于一切。我说的自由是多种多样的：想做什么就做什么的自由，不想做什么就不去做的自由，不受自我情绪或外界影响的自由，等等。自由是我最珍视的价值。
 97. 我在硅谷见过的最成功的人往往在职业生涯早期就实现了突破，比如被提升为副总裁、董事或首席执行官，有些人转去创业也很快就实现了良好的发展。如果年轻时没有在职务上有所突破，职业生涯后期就很难后来居上。
 98. 对刚刚开启职业生涯的人来说（甚至稍晚阶段的人也一样），最重要的资源是公司能给你带来的人脉资源。要思考一下自己会跟什么样的人共事，他们将来会如何发展。
-99. 在获得财富的过程中，你要排除“运气”这个不可控因素。
+99. 在获得财富的过程中，你要排除"运气"这个不可控因素。
 100. 第一种运气是不期而遇的运气，一个人的好运完全源于他控制范围之外、意料之外的事情，比如获得意外之财、遇到贵人等等。第二种运气源于坚持不懈、孜孜不倦、屡败屡战、不断尝试，是靠个人主动创造机会获得的。你释放了大量能量，使出浑身解数，移山倒海，一往无前。就好像在做科学实验，把不同的试剂混合在一起，看看能产生什么结果。因为你不懈地努力，不停地奋进，不断地释放能量、积蓄力量，所以好运找到了你。第三种获得好运的方式就是善于发现好运。如果你在某个领域技艺娴熟、经验丰富，那么当这个领域实现了意外突破时，你就会在第一时间洞悉，这时，其他不熟悉这个领域的人会无动于衷。这就是增加对好运的敏感性，幸运会眷顾有准备的大脑。第四种运气是最奇妙、最难得的一种，那就是打造独特的个性、独特的品牌、独特的心态，让运气找到你。
 101. 获得好运的方法：·希望好运不期而至。·不停地折腾，直到撞上大运。·做好心理准备，对别人错过的机会保持敏感。·把你所做的事情做到极致。精益求精，直到名副其实。让机会自动找到你，让运气成为必然。
 102. 获得好运的方法：·希望好运不期而至。·不停地折腾，直到撞上大运。·做好心理准备，对别人错过的机会保持敏感。·把你所做的事情做到极致。精益求精，直到名副其实。让机会自动找到你，让运气成为必然。
 103. 再进一步，如果你值得信赖，做事靠谱，诚信正直，目光长远，那么其他人在跟陌生人合作时，保险起见，他们会选择通过你来达成交易。他们会主动找到你，分给你一部分好处，仅仅因为你已经建立了诚信可靠的声誉。
-104. “做一个创造者，创造出人们想要的有趣的东西。展示你的技能，练习你的技能，最终会有合适的人找到你。”
+104. "做一个创造者，创造出人们想要的有趣的东西。展示你的技能，练习你的技能，最终会有合适的人找到你。"
 105. 你的失德会深刻影响你的心智模式，你的过往对你是清晰可见的。如果你有太多道德缺陷，你就不会尊重自己。人活在这个世界上最糟糕的结果就是没有自尊。如果连你都不爱自己，那么还有谁会爱你呢？
 106. 随着年龄和阅历的增长，我逐渐发现，只要有足够的耐心，优秀的人就会成就一番大事业。
 107. 成功需要时间。即使万事俱备——你已经把成功所需的各个要素收入囊中，需要投入的时间也具有不确定性。而如果一直在掐算时间，在成功真正到来之前，你的耐心就会被消磨殆尽。
 108. 对自己热爱的事物孜孜不倦，乐此不疲，不断精进，日积月累。不要去计算自己投入的时间和精力，因为一旦开始计算，你就会失去耐心。
 109. 亲身实践是获得真才实学的唯一途径。
-110. 江山易改，本性难移。所谓“性格决定命运”，就是一个人不断重复自己的行为模式，好的坏的、优点缺点，最终会得到与自己的行为相对应的结果。
+110. 江山易改，本性难移。所谓"性格决定命运"，就是一个人不断重复自己的行为模式，好的坏的、优点缺点，最终会得到与自己的行为相对应的结果。
 111. 始终主动付出、不断奉献，不要斤斤计较、患得患失。
 112. 在物质世界里，金钱不能给人带来快乐，不能解决人的健康问题，不能让所有家庭变得美满和睦，不能让人免受情绪波动的困扰。但金钱可以买到自由，可以解决许多外在的问题。所以，赚钱是一个合情合理的奋斗目标。
 113. 为新的社会需求提供解决方案。
-
-## 第二章 增强判断力
-1. 把时间花在省钱上是不会致富的。省出时间来赚钱才是正确的思路。
-2. 一个智慧而富有判断力的人，首先要知道个人行为的长期后果，然后做出正确的决策并付诸行动。
-3. 时间的投入是必需的，但判断力更重要。在前进的过程中，方向比速度更重要，特别是运用了杠杆以后。在每个岔路口选对方向，其重要程度要远远超过前进的努力程度。人生就是选择正确的方向，然后朝这个方向奋力前行。
-4. 我认为最聪明的人是可以把事情深入浅出地给孩子讲解清楚的人，否则他自己也没有真正理解。
-5. 要直面现实，就要放下自我，消除自我意识，忘记自我判断，平复自我情绪。
-6. 痛苦时刻的一个定义是：当你看到事物的真面目不是你本来想要的样子时，你是痛苦的。
-7. 但痛苦的时刻就是真相大白的时刻。只有处于痛苦之中，你才会被迫接受现实，而只有接受现实，你才能做出有意义的改变，取得有意义的进步。由此可见，只有实事求是，才能不断改进，不断前行。
-8. 要看清真相，就必须摆脱自我，因为自我不想面对真相。自我越弱小，对自己反应的限制越少，对自己想要的结果的执念越低，就越容易看清现实。
-9. 问题在于欲望与现实是互相冲突的，人总会因欲望而看不清现实，旁人的劝说都是无用的。
-10. 越是渴望以某种特定的方式解决问题，我就越不可能看清事实。
-11. 感受跟事实是两码事。感受只是自我对事实的部分估计。
-12. 悠闲的大脑才能产生伟大的创意。一个倍感压力、案牍劳形、四处奔波、焦头烂额的人，是没有办法思考的。所以，一定要为思考挤出时间。
-13. 逆向投资者并非总是反对一切，事实上，反对一切是墨守成规的另一种表现。逆向投资者会根据实际情况独立思考，能够顶住盲目从众的压力。
-14. 佛曰：“有求皆苦，无求乃乐。”
-15. 在解决各类问题的过程中，我们逐渐养成了很多习惯。我们把这些习惯和自我认知、自我认同、自我意识紧密地捆绑在一起，并对习惯形成深深的依赖。
-16. 要持续成长，很重要的一点是学会打破现有的条件反射，改掉不良习惯. 要善于剖析自我，梳理每个习惯是怎样形成的。
-17. 这个习惯可能是我在蹒跚学步的时候养成的，当时是为了吸引父母的注意。我在成长过程中不断强化这个习惯，现在它已经成为我的一部分。这个习惯对现阶段的我还有帮助吗？它会让我更快乐吗？会让我更健康吗？可以帮助我完成计划、实现目标吗？
-18. 跟大多数人相比，我的习惯性没有那么强。我不喜欢对日常生活进行规划。我也有一些习惯，但这些习惯都是我刻意培养的，而不是在成长过程中无意形成的。
-19. 我尽量避免预设的干扰。我认为，任何划分阵营和贴标签的行为都会给人造成束缚，让人看不清真相。
-20. 只有立场却没有是非，这是不可取的。
-21. 在任何一个层面上实现自我认同，都会形成很多所谓的“稳定信念”。我不喜欢这种做法，因为这会妨碍我独立思考。
-22. 承受痛苦也是人生的必修课，它可以带来两大收获：一是痛苦可以让人接受世界的本来面目；二是痛苦可以大大改变一个人的自我，虽然过程非常煎熬。
-23. 在一个动态的系统中，没有一劳永逸的解决方案。
-24. 当把成功归于自己时，你要更加谨慎，因为难免出现认知偏差。
-25. 几乎所有的偏见都是为了帮助人们在信息不完整的情况下迅速做出判断。对于重要的决策，要抛开记忆和身份，专注于问题本身。
-26. 我从不考虑“我喜欢或不喜欢”这样的问题。我只关注事实，我思考问题的角度是“事实就是这样”，或者“事实不是这样”。 ——理查德·费曼
-27. 具体地表扬，泛泛地批评。
-28. 如果要提出批评意见，不要批评某个人，可以批评工作方法，或者批评某一类行为。如果要表扬，那就找到一个榜样，表扬这个特定的人。
-29. 越觉得自己无所不知，规避和处置风险的方法越少。
-30. 做决策要具体问题具体分析，有效决策需要的是原则和心智模型。
-31. 发推文有助于我提炼所学知识的精髓，也有助于我温故而知新。
-32. 我认为自己并没有能力找到“正确方法”。相反，我努力的方向是逐一排除不奏效的方法。我认为成功就是不犯错。成功的关键并不在于做出正确判断，而在于避免做出错误判断。
-33. 微观经济学和博弈论都是基础性学科. 如果不能深刻理解供求关系、劳资关系、博弈论等问题，你就不可能在商业上取得成功，甚至也无法很好地适应现代社会。
-34. 恺撒大帝有句名言：“如果你想完成一件事，那就亲自去做。如果不想完成，那就派人去做。”
-35. 如果你是委托人，你就会有主人翁的责任感，因为在意结果，所以你会做得很好。而如果你是代理人，你就是在为别人做事，你可能会做得很糟糕，因为你不在乎。
-36. 但媒体和现代社会不断给大众洗脑，让大众认为社会需要代理人，代理人在社会中发挥着不可或缺的作用，代理人学识渊博，等等。这样一来，大多数人会心甘情愿地成为勤勤恳恳的代理人。
-37. 如果不能做出可证伪的预测，那就不是科学。要让人们相信某个理论是真理，这个理论就应该具有预测能力，而且必须是可证伪的。
-38. 如果难以抉择，那答案就是否定的。
-39. 人做不到绝对确定，但是我们一定要在非常确定的情况下再做出决定。
-40. 一条简单的人生经验：如果在一个艰难的决定上意见不统一，你就应该选择短期内更痛苦的道路。
-41. 从本质上看，两条道路中的一条会带来短期痛苦，而另一条会在未来引发更长久的痛苦。为了回避矛盾，大脑会本能地选择摆脱短期痛苦。
-42. 你必须进行自我训练，主动迎接短期痛苦，压制回避痛苦的倾向（这种潜意识倾向非常强大）。如你所知，我们生命中的大部分收获都来自承受短期痛苦而获得的长期回报。
-43. 每天花一个小时阅读科学、数学和哲学类书籍，7年内，你就可能跻身少数的成功人士之列。
-44. 我们学习的手段丰富多样，我们缺乏的是求知欲。
-45. 不要比谁读书更快. 书越好，你越要慢慢阅读、慢慢吸收。
-46. 我精读的书其实并不多. 我会略读很多书，但精读的只有几本，而这几本书构成了我知识的基础。
-47. 把读书培养成习惯是最重要的一件事。
-48. 一书在手，便不觉得浪费时间了。 ——查理·芒格
-49. 指出别人观点中明显的偏颇，意味着要么你攻击的对象不聪明，要么你自身不聪明。
-50. 统计阅读数量是为了满足虚荣心. 知识面越广，思想越独立，读不完的书就越多. 不要刻意追求读完多少本书，而要时刻关注可以预测未来趋势的新概念。
-51. 人与人的区别不是“受过教育”和“没受过教育”，而是“喜欢阅读”和“不喜欢阅读”。
-52. 在解决问题时，问题越古老，解决方案存在的时间越长。
-53. 一颗平静的心，一个健康的身体，一个充满爱的家。这些东西是金钱买不到的，必须通过努力才能获得。
-
-## 第三章 学习幸福
-1. 别太把自己当回事。你只是一只会做计划的猴子。
-2. 可以说，幸福与基因无关，甚至与选择无关，它是一种与个体密切相关、可以后天习得的技能，就像通过锻炼强健体魄、通过吃饭摄取营养一样。
-3. 甲之真理，乙之谬论，反之亦然。我所理解的幸福与你所理解的幸福可能大相径庭。我认为，探索自己对幸福的定义非常重要。
-4. 我认为幸福就是一种不需要主动作为的状态。当把“缺憾感”从生活中剔除时，幸福感就会油然而生。
-5. 幸福是一种无欲无求的状态，特别是对外界事物的欲望。欲望越少，越能接受事物的当前状态，头脑越平静。
-6. 人生在世，我们从大千世界中获得各种各样的感官体验和刺激，耳得之而为声，目遇之而成色。至于如何思考、判断和对待你所感知的一切，全由你自己决定——选择权在你手上。
-7. 情绪看似是外力作用的结果，但其实并非如此。
-8. 如果你把自己看成一个细菌或变形虫，把自己毕生的努力都看成在水上写字、在沙滩上建城堡，你就不会对生活“本来该有”的模样抱有期待。
-9. “充分利用”不是说要穷尽所有时间去追逐一些愚蠢的欲望，而是要认识到自己在这个星球上的每一分每一秒都是非常宝贵的。
-10. 我们都认为江山易改，本性难移，但事实是，我们是可塑的，而世界基本上是固定不变的。
-11. 我降低自己的身份感。我屏蔽脑海中的噪声和杂念。我不在乎那些无关紧要的事。我不参与政治。我远离郁郁寡欢的人。我珍惜光阴。我阅读哲学作品。我进行冥想练习。我和快乐知足的人交往。
-12. 幸福，爱，激情……这些都不是我们追寻的事物，而是我们做出的选择。
-13. 我们无条件地听从自己脑海中的声音，以为这个声音就是一切真理的来源。殊不知，大脑也是可塑的，每一天都是崭新的。记忆和身份只是来自过去的负担，让我们无法自由自在、心无旁骛地活在当下。
-14. 大脑把主要精力用于规划未来或悔恨过去。
-15. 过去就是过去了，没有回忆，没有遗憾，没有放不下的人，没有忘不掉的旅行。既往不恋。人之所以感到痛苦，很多时候是因为拿以往和现在做比较。
-16. 你有没有想过，现在的生活可能就是上帝承诺给你的天堂，而你却毫不珍惜，肆意挥霍？
-17. 人们赋予“幸福”太多内涵，我都不确定这个词是什么意思了。对现在的我而言，幸福的本质更倾向于平和，而不是快乐。我觉得平和与目的无法共存。
-18. 很重要的一点就是，你要意识到，是焦虑感让你感到不快乐。而这种焦虑感源于一连串不断涌现的想法。
-19. 幸福的人并不是时时刻刻都快乐的人。幸福的人是可以轻松地以特定的方式诠释事件、保持内心平和的人。
-20. 欲望是主动选择的不开心。
-21. 我觉得人类最常犯的一个错误就是，认为自己会因外部环境变化而获得幸福。
-22. 我们的根本错觉是：总有一样东西会让我一直满足、永远快乐。
-23. 欲望就是你跟自己的约定，约定的内容是：不得到我想要的东西，我是不会快乐的。
-24. 年轻的时候有时间、有健康，但没有钱。到了中年，有钱、有健康，但没有时间。老了以后，有钱、有时间，但没了健康。人生的大赢家就是同时拥有时间、健康和金钱。
-25. 所有真正意义上的成功都是内在的，与外部环境关系不大。
-26. 生存和繁衍的本能驱使人们劳作，而享乐适应让我们步履不停。幸福的秘诀在于，知道何时停下劳作的脚步，开始随心去玩耍。
-27. 对现在的我来说，真正的赢家是那些已经完全退出游戏的人，甚至根本不玩游戏的人，是那些已经超越了游戏的人。这些人的内心无比强大，有极强的自控力和清醒的自我意识，他们不需要从任何人那里获得任何东西。
-28. 布莱士·帕斯卡说过：“人之所以有烦恼，是因为他不能独自安静地在一个房间里坐着。”
-29. 人们以为，获得平和心境的方式是解决所有的外部问题。但外部问题是无穷无尽的。
-30. 我在生活中努力摆脱“应该”这个词。当“应该”在脑海中出现时，其背后隐藏的是负罪感或社会规训。
-31. 内心平和的敌人是社会和其他人灌注给你的期望。
-32. 而训练自己获得幸福感完全是内在的，不需要外界评判你的进展，认可你的结果。你是在跟自己竞争，这是一场单人游戏。
-33. 而现实是，生活就是一场单人游戏。人独自出生，独自死亡，独自解读人世间的一切。你的记忆只属于你一个人。你出生前无人在意，你离开人世后也无人在意，你存在于人世间只是短短几十年，人生就是一场单人游戏。
-34. 嫉妒是一种有害的情绪，因为归根到底，它并不能改善你的生活，只会让你不快乐，而你嫉妒的那个人仍然是成功的、美丽的，仍然拥有你所嫉妒的一切。
-35. 如果你不愿意与别人进行百分之百的交换，嫉妒就毫无意义。
-36. 我很高兴我是我自己。
-37. 幸福源于好习惯。
-38. 获取幸福是一种技能，就像懂得营养搭配是一种技能，节食减肥是一种技能，锻炼是一种技能，赚钱是一种技能，与异性交往是一种技能，拥有良好的人际关系是一种技能，爱也是一种技能一样。
-39. 工作时，和比自己更成功的人在一起。玩耍时，和比自己更快乐的人在一起。
-40. 对于任何针对心灵的方法，你都应该保持开放的心态，但试无妨。
-41. 人生最重要的事情就是活在当下。
-42. 如果不想跟一个人共事一生，那就一天都不要和他共事。
-43. “停止追问，开始欣赏。”
-44. 如果贪心不足，当有所得时，我们就会认为这本是世界欠我们的。反之，如果活在当下，怀有感恩之心，我们就能觉察到被赐予了丰厚的礼物，时刻都被无穷无尽的财富围绕着。要获得幸福感，真正需要的就是拥有这种觉知。
-45. 获得幸福最重要的诀窍之一就是，认识到这是一种你可以锻炼的技能，是一个你可以做出的选择。也就是说，一个人可以选择幸福，并为之奋斗。这跟选择减脂增肌、为事业奋斗、学习微积分没什么两样。
-46. 如果我意识到自己正在对别人评头论足，我就会停下来自问：“我能不能正面解读这件事？”
-47. 每当意识到自己对什么东西产生了欲望时，你可以自问：“这个东西对我来说真的那么重要吗？我至于因为这件事不合我意就感到不开心吗？”在大部分情况下，你会发现，这个东西对你来说其实并没有那么重要。
-48. 对周遭评判得越多，自我就越膨胀。在某个瞬间，你状态极佳，因为此时你自我感觉良好，觉得自己比别人强。过了一会儿，你就会被孤独感吞噬，目之所及都是烦恼。这个世界是一面镜子，会把你的感受反射给你。
-49. 这就是改变习惯的步骤：首先，知道自己要做什么；其次，知道该怎么做；再次，把规划告诉朋友，让一致性偏见发挥作用；最后，严格自律，知行合一，进行自我重塑，直至蜕变成全新的自己。
-50. 在生活中，无论面对何种状况，你都有三种选择：改变现状，接受现状，逃避现状。
-51. 希望改变现状却没有横下一条心去改变，希望转身离开却没有毅然决然地离去，同时又不能心平气和地接受现状。
-52. 所谓接受，就是无论结果如何，都可以泰然处之；就是保持心态平衡，大脑专注；就是退一步海阔天空；就是观大势，顾全局，谋长远。
-53. 当我遭遇挫折时，部分自我会立即做出消极反应。但现在我已经学会自问：“这种情况有什么积极的意义吗？”
-54. 过去一年，经过勤奋练习，我已经成功地降低了自己的反应时间。最开始我需要花几秒钟才能找到一件事的积极面，现在，我的大脑几乎瞬间就能做出反应。这是一个可以训练自己去养成的习惯。
-55. 相对于宇宙，你就像一只在夜空中闪烁的萤火虫，你的生命转瞬即逝。如果能彻底认识到你所做的一切不过是徒劳，你就能获得巨大的幸福感和平和感，因为你会意识到，生命不过是一场游戏。但生命是一场有趣的游戏。在这场游戏中，唯一重要的事情就是，随着生命的展开，你要不断地体验现实。既然如此，你为什么不以最积极的方式去诠释自己经历的一切呢？
-56. 你那些不开心的时刻、没有享受人生的时刻，不会给任何人带来任何好处。宇宙的幸福值并不是恒定的，别人不会因为你不幸福而变得更加幸福。你在地球上所拥有的时间稍纵即逝，无比宝贵，你一定要好好珍惜。你要把直面和正视死亡放在第一位。人的一生，不否认、不回避死亡是极其重要的，因为这是你学会坦然接受无法改变的事情、活在当下的本原。
-57. 人固有一死，死后万事皆空。所以，好好享受生命吧。对社会做一些积极的贡献。向世界主动释放和传播爱。给他人带来快乐和幸福。让生活多一些笑声。珍视眼前的每个瞬间。承担使命，尽职尽责，不枉此生。
-
-## 第四章 自我救赎
-1. 医生不能让你健康。营养学家不能让你苗条。老师不能让你变聪明。禅师不能让你冷静。智者不能让你富有。教练不能让你健壮。最终，你必须自己负起责任。救赎靠自己。
-2. 你唯一应该做的事，是你自己想做的事。别人总希望你以特定的方式做事，但如果不再费心去揣摩别人的期待，你就能听到自己脑海中那个微弱的声音。那个声音代表了你真实的想法。倾听它，你就可以做自己了。
-3. 做人要虚心聆听，博采众长，但不要盲目模仿。
-4. 你的人生目标是找到最需要你的人、事业、项目或艺术。大千世界，芸芸众生，总有一些人和事会与你完美契合。不要基于别人正在做的事为你自己列清单、做决策。你永远不会成为他们，你永远都不擅长做另一个人。
-5. 我生活中的第一要务是我的身体健康。对我来说，健康的重要性高于幸福，高于家庭，高于工作。
-6. 健康问题是对人生影响最大的问题。
-7. 我们本不该每5分钟就拿起手机查看一下社交媒体。当看到别人给我们点赞时，我们会很开心，如果别人留下一句愤怒的评论，我们就会很生气。情绪上的大起大落让我们无比焦虑。
-8. 现代人生活在一个富足的世界里，面对琳琅满目、应有尽有的一切，当我们的基因一直在说“要要要”的时候，我们本该拒绝，但我们的身体已经不知道如何说不了。
-9. 当所有人都有病时，我们就不认为这是一种病了。
-10. 大多数身体健康的人更关注自己吃什么，而不是吃多少。控制质量比控制数量更简单易行，而且控制质量也在一定程度上控制了数量。
-11. 我一直很好奇，神奇面包是如何做到在室温下存放数月依然保持柔软的。如果连细菌都不吃这种面包，你觉得你应该吃吗？
-12. 世界上最简单的饮食原则：食物加工程度越深，就应该越少摄入。
-13. 表面上说的是“我没时间”，但其实说的是，“这对我来说不是优先事项”。
-14. 我所做的就是，认定我生命中的第一要务是自己的身体健康，这件事的优先级高于我的幸福，高于我的家庭，高于我的工作。一切始于身体健康。我把身体健康放在第一位，所以我永远不会以“没时间”为理由不去健身。基本上我每天都坚持晨练，不管多长时间，我都会坚持，雷打不动。如果这一天没有晨练，我就不会开始工作。即使是山崩地裂、世界末日我也不管，世界可以再为我等上30分钟，直到我完成晨练。
-15. 我要重复一遍，每天坚持才是最重要的，坚持做什么是次要的。对个人而言，最好的锻炼就是每天都能坚持去做的那种锻炼。
-16. “选择简单模式，人生会越来越困难；选择困难模式，人生会越来越简单。”
-17. 如果你现在选择一条容易的路，那么你的未来会变得更加艰难。
-18. 我们大部分的痛苦都来自逃避。
-19. 我为什么要通过嘲笑他人让自己感觉良好呢？
-20. 我就想：“我为什么要幻想未来的规划？我为什么就不能站在这里，集中精力刷牙？”
-21. “我真的在乎自己会不会出丑吗？谁在乎呢？无论如何我都会死的。一切都会归零，我什么都不会记得，所以这一切毫无意义。”
-22. 大脑中95%的所思所想都是不需要即刻就处理的。大脑就像肌肉，最好让它多多休息，保持平静，只有在特定问题出现时才调动大脑，全身心地解决问题。
-23. 高度集中注意力是一种能力，这种能力与放松自我、活在当下、保持快乐的能力有关，当然，也与提高效能的能力有关。
-24. 我们过多地活在存在于大脑的内心独白里。
-25. 情绪不应该被下意识的反应控制，而应该由我们的意识主动控制。
-26. 大脑本身就是一块肌肉，可以被训练，可以被调节。
-27. 如果带着觉知和意图审视自己的大脑（这种审视应该是一个时时刻刻都要进行的长期练习），你就可以分析自己的思想、情绪、想法和反应。
-28. 冥想是屏蔽社会的噪声，倾听自己的声音。只有以冥想本身为目的，冥想才会“起作用”。徒步旅行是行走冥想。写日记是书写冥想。冲澡是意外冥想。静坐是直接冥想。
-29. 最了不起的超能力就是改变自我的能力。
-30. “当30岁时，你会给20岁的自己什么建议？当40岁时，你会给30岁的自己什么建议？”
-31. 我会直接跟当事人谈：“事情是这样的，我准备这样做，我准备用这种手段。这样公平，那样不公平。”
-32. 如果可以从长远角度冷静客观地看待问题，很多问题其实并不是问题。
-33. 再强调一次，习惯就是一切——主导着我们的一切行为和思维方式。
-34. 想要拥有内心的平静，必须先拥有身体的平静。
-35. 在日常生活的每时每刻，我们要么是在养成新的好习惯，要么是在摒弃以前的坏习惯，而习惯的养成和摒弃都需要时间。
-36. 养成习惯、保持身材至少需要十年的时间。
-37. 如果你想认识一个漂亮姑娘，那就去认识她；如果你想喝杯饮料，那就去喝一杯；如果你真的想做一件事，那就去做好了。
-38. 有想法就直接采取行动，就是这么简单。
-39. 我会采取力所能及的实际行动，而不是什么都不做，陷入自我责备。
-40. 迅速采取行动，并对结果保持耐心。
-41. 需要做，就去做，还等什么呢？生命的长河奔腾不止，青春一去不复返。不要浪费时间拖延等待，不要浪费时间踟蹰徘徊。每个人都有自己的使命，不要浪费时间做不属于自己人生使命的事情。一旦决定去做，就要迅速采取行动，并全神贯注，全力以赴。同时，要对结果保持耐心，因为你唯一能把握的只有自己，他人和外界环境都纷繁复杂、充满变数。
-42. 正如尼维所说，灵感易逝。当灵感乍现时，要马上行动起来。
-43. 我觉得设定具体目标的做法并不科学。史考特·亚当斯有句名言：“要建立系统，而不是设定目标。”运用你的判断力确定什么样的环境有助于你茁壮成长，然后在周围创造一个这样的环境，由此增加成功的概率。
-44. 我做不到让生活的方方面面都遂心如意，但我建立了自己的系统，确保不合心意的情况屈指可数。
-45. 如果有什么事情是你以后想做的，现在就去做，人生没有“以后”。
-46. 而要想在群体中脱颖而出，就需要有一定的逆向思维和反叛精神，能够说出：“不，我就是要做自己选择的事情。不管社会结果如何，我就是要学自己觉得有意思的东西。”
-47. “我永远不受欢迎，我永远不被接受。我已经是个失败者了。反正也得不到别人拥有的东西，我只要开心地做自己就好了。”这样想对开始做事的人来说是一种很好的心态。
-48. 最难的不是做自己想做的事，而是知道自己想要什么。
-49. 勇气不是在枪林弹雨中冲锋陷阵，而是不在乎别人怎么想。
-50. 珍惜时间并不意味着不能放松下来享受生活。只要是做自己想做的事情，你就不是在浪费时间。但是，如果没有把时间花在想做的事情上，既没有赚到钱，也没有学到东西，你就要问问自己到底在瞎忙什么。
-51. 愤怒本身就是一种惩罚。一个愤怒的人试图把你的头摁到水下，但同时他也在溺水。
-52. 他们不断地评判着自己看到的一切，头脑中回想着昨天发生在自己身上的事情，也在幻想明天会发生什么。他们唯一没有做的事情就是关注当下最基本的现实。
-53. 忙碌的思绪会加速主观时间的流逝。
-54. 现代斗争：孤独的个体召唤出非人的意志力，进行断食、冥想、锻炼……对抗大批科学家和统计学家以充足的食物、药物和电子屏幕为武器制造出的垃圾食品、标题党新闻、无限的色情内容、无穷无尽的游戏、令人上瘾的毒品。
-
-## 第五章 哲学
-1. 寻找人生的意义可能需要几年甚至几十年。一旦找到令自己满意的答案，这个答案就会成为你生活的根基。
-2. 每个人都必须找到自己生命的意义。
-3. 生命没有意义，生活没有目的。
-4. 你做的任何事情都将烟消云散，你存在的一切痕迹都将无处可寻。人类终将灭亡，地球也会荡然无存。
-5. 在对别人撒谎之前，你必须先对自己撒谎。
-6. 诚实是我最核心的价值观之一。我说的诚实，指的是做真实的自己。
-7. 另一个基本的价值观是，我不赞成任何短期思维或短期交易。
-8. 生活中所有的回报，无论是财富、人际关系、爱情、健康、活动，还是习惯，都来自复利。
-9. 我赞同平级关系，不接受等级关系。我不想高于任何人，也不想低于任何人。如果我和别人不能像平级那样对待彼此，我就不想和他们交往了。
-10. 我不想生气，也不想和愤怒的人在一起。我把愤怒的人从自己的生活中剔除了。我不是在评判他们。我自己也经历了很多愤怒。他们必须自己解决这个问题。去别的地方生别人的气吧，不要影响我。
-11. 志同则道合，道合则无虞。
-12. 正如投资大师查理·芒格所说：“若要找到一位优秀的伴侣，你先要成为一位优秀的伴侣。”
-13. 问题越古老，答案存世的时间越长。
-14. 要勇于尝试，亲自验证，始终保持怀疑精神，沙里淘金，使其为我所用。
-15. 智慧是一种知道个人行为的长期后果的思维能力。
-16. 除了当下，一切都是不存在的。没有人能够回到过去，也没有人能够以任何有意义的方式成功地预测未来。唯一存在的就是此时此地，就是你恰好存在的这个时刻和在宇宙空间里的这个位置。
-17. 只因在劫难逃，万物更显美好。你永远不会比此刻更美，我们也永远不会重回此地。
-18. 灵感本易逝，行动应当时。
-19. 公式总结：
-- 幸福 = 健康 + 财富 + 良好的人际关系
-- 健康 = 锻炼 + 饮食 + 睡眠
-- 锻炼 = 高强度耐力训练 + 体育运动 + 休息
-- 饮食 = 天然食物 + 间歇性禁食 + 植物
-- 睡眠 = 不要闹钟 + 8～9小时 + 昼夜节律
-- 财富 = 收入 + 财富 × (投资回报率)
-- 收入 = 责任 + 杠杆 + 专长
-- 责任 = 个人品牌 + 个人平台 + 承担风险
-- 杠杆 = 资本 + 人力 + 知识产权
-- 专长 = 无法通过培训获得的知识
-- 投资回报 = “买入并持有” + 估值 + 安全边际
-20. 人生要义：
-- 活在当下。
-- 欲望即痛苦。（佛陀）
-- 执怒就像握了一把丢向他人的热煤炭，被烫伤的人反而是你。（佛陀）
-- 如果不想跟一个人共事一生，那就一天都不要和他共事。
-- 阅读（学习）是终极元技能，可以换来其他任何东西。
-- 生活中所有的回报都来自复利。
-- 用头脑赚钱，而不是用时间赚钱。
-- 99%的努力终将白费。
-- 任何时候都要完全诚实。诚实待人、积极向上，这是我们几乎在任何时候都可以做到的。
-- 具体地表扬，泛泛地批评。（沃伦·巴菲特）
-- 真理是具有预测能力的理论。
-- 观察每一个想法。（自问：“为什么我会有这个想法？”）
-- 生命的伟大在很大程度上源于苦难。
-- 爱是给予，不是接受。
-- 思考的间隙即开悟。（埃克哈特·托利）
-- 数学是自然的语言。
-- 每一刻都自成一体，自有意义。
-- 健康、爱和使命，以此为序，其他的都不重要。
       `,
       en: `
 # Notes on The Almanack of Naval Ravikant
 
-## On Wealth
-- Seek wealth, not money or status. Wealth is having assets that earn while you sleep.
-- The internet has massively broadened the possible space of careers.
-
-## On Happiness
-- Happiness is a choice, a skill that can be developed.
-- Happiness is what's there when you remove the sense that something is missing in your life.
-
-## Conclusion
-Wealth, health, happiness, and redemption, are my life's pursuit.
+## Chapter 1: Accumulating Wealth
+1. Making money is not something you can just decide to do; it is a skill that needs to be learned.
+2. Making money has no necessary connection to how hard you work.
+3. To acquire wealth, you must know what to do, with whom, and when. Compared to working hard, understanding and thinking are more important. Of course, hard work is very important, but you must choose the right approach.
+4. Suppose one day I fail in business, penniless. If I were randomly dropped onto the streets of any English-speaking country, I believe I would become wealthy again in 5 or 10 years, because I have mastered the skill of "making money," and this skill can be learned by anyone.
+5. If you don't know what you should do yet, you need to figure out this problem first. Before that, don't exert yourself blindly.
+6. "Productize yourself" is hard. That's why I say "productize yourself" takes decades—not decades to execute, but to spend most of your time thinking: what unique value can I provide?
+7. Money is our way of transferring wealth. Money is society's credit symbol, with the ability to call upon others' time.
+8. Wealth is assets that can earn money for you even while you sleep. Wealth can be factories and robots that produce. Wealth is computer programs that serve customers day and night. Wealth can also be money in banks invested in other assets or businesses.
+9. My definition of wealth is businesses and assets that bring in income while you sleep.
+10. To make money in society, you must provide something that society needs but cannot obtain. If society has already created the needed products and services, you are not needed.
+11. If you want to become wealthy, you must figure out what you can provide to society that is needed but unobtainable, and providing these things should be easy and natural for you, within your technical and ability range.
+12. The next step is to think about how to scale, because providing just one product or service is far from enough; you must provide thousands, even hundreds of thousands, millions, billions, ideally one for everyone.
+13. Find your talent, accumulate expertise.
+14. Expertise cannot be taught, but it can be learned.
+15. In the matter of "being yourself," no one can surpass you. In fact, most of life is spent searching, searching for those who need you most, searching for things that need you most.
+16. But what is my unique strength? Where did I ultimately spend my time? Looking back, I find that most of what I do revolves around making money, dealing with technology, dealing with people, selling products, discussing theories, promoting ideas.
+17. Some people find sales difficult and want to know how to be articulate and good at selling. In fact, if you are not yet good at sales at this stage, or if you really have no interest in sales, then the sales industry may not be suitable for you; you should focus on what you truly love.
+18. Through the internet, everyone can find their audience. As long as you express yourself uniquely online, you have the opportunity to spread happiness, accumulate wealth, create products, and start businesses.
+19. "Only by blazing a new trail can you avoid competition." In essence, competition is imitation. Competing with others means you are doing the same things as others. But everyone is unique; don't imitate others.
+20. The best work has nothing to do with appointments or degrees. The best work is creative expression of lifelong learners in the free market.
+21. In life, basic arithmetic skills are more important than calculus. Similarly, being able to express yourself clearly with simple English vocabulary is more important than being able to write poetry, having a rich vocabulary, or speaking 7 different languages.
+22. A person can only master one or two things, and these one or two things are usually what you are obsessed with.
+23. All returns in life, whether wealth, relationships, or knowledge, come from compound interest.
+24. In business relationships, with mutual trust, all routine negotiations can be simplified, because you know cooperation will surely succeed.
+25. The starting point doesn't matter; behavior itself matters. Therefore, adhering to moral standards is not easy.
+26. 99% of effort will be wasted.
+27. At least from the perspective of goal-oriented realistic society, only 1% of the effort you put in at school gets rewarded.
+28. You should, after careful consideration, clearly recognize that you need to find the part you can fully dedicate yourself to from most things (relationships, work, learning), to fully obtain the compound interest effect.
+29. Putting energy into useless things is wasting time and wasting brainpower.
+30. Strive to find the 1% that won't be wasted. This 1% is meaningful to you and worth pursuing for the rest of your life. Once found, you must be single-minded and go all out.
+31. Be brave enough to take business risks in your personal name. Society will reward you based on responsibility, equity, and leverage effects.
+32. Acquiring wealth requires leverage. Leverage can come from labor, capital, code, or media.
+33. Those who can take the risk of failure in public in their personal name will gain great momentum.
+34. When you publicly express your views in your personal name, you are taking risks for certain views and practices. At the same time, you will also be rewarded and benefit from it.
+35. Failure is really not that terrible, so we should all be brave enough to take more responsibility.
+36. Without equity, there is no path to financial freedom.
+37. If you own business equity, you can earn passive income—even when you're on vacation, the business is making money for you.
+38. If you own business equity, you can earn passive income—even when you're on vacation, the business is making money for you.
+39. In essence, working for someone else is working for others. While business owners take risks and responsibilities, they also own intellectual property and brand effects. Therefore, the compensation they pay you must be lower than the value you create.
+40. Work hard until you have the ability to own business equity. You can buy company stock and become a minority shareholder, or start your own business. In short, find ways to own business ownership; this is really important.
+41. True wealth is created by starting companies or through investment. Investing in companies is also buying business equity. These are all paths to acquiring wealth. In short, true financial freedom cannot be achieved by simply investing a lot of time.
+42. To build a good career foundation, follow your true curiosity and explore, rather than blindly following the hot industries that make money right now.
+43. If something interests you at first but then becomes boring, it just temporarily distracted your attention; it's not where your true curiosity lies. Please keep searching.
+44. Whether starting a business, exercising, dating, or making friends, I always believe that the meaning of life lies in focusing on the thing itself, experiencing the process, and enjoying the present.
+45. The less desire you have for something, the fewer concerns you have, the less obsession you have, and the more naturally you follow your heart. You will do it consistently in your own way, and work quality will improve.
+46. Don't chase so-called "hot topics," but pursue what you're truly interested in. If while following curiosity and thirst for knowledge you also meet social needs, you can get generous economic returns.
+47. If society can train you, then one day society can also write code and replace you with computers.
+48. Think seriously: what unmet needs are there in society, and how can you be the first to provide related products or services and scale them? This is the real challenge of making money.
+49. Overall, there are three types of leverage. The first is labor leverage, and capital is the second relatively better form of leverage.
+50. The last type of leverage is the newest and most accessible to ordinary people. This type of leverage is "products with zero marginal cost of replication." This includes books, media, movies, code. Among all levers that don't require others' permission, code is arguably the most powerful—you only need a computer.
+51. Programming, writing books, recording podcasts, posting tweets, shooting videos—these things don't require anyone's permission. Thus, new levers act as equalizers, greatly narrowing the gap between people and making society more equal.
+52. You can never get rich by renting out your time.
+53. Whatever stage of life you're in, the goal of effort is to continuously improve your independence, not to get promoted or get a raise. Having independence, being responsible for your unique output (rather than being responsible for invested time like an employee), this is the ideal state.
+54. For laborers using leverage, judgment is far more important than the length of time invested and the effort of work.
+55. One major goal of tasks should be to master your own time.
+56. Working 40 hours a week is a product of the industrial age. Knowledge workers' time schedules are like athletes': there are times for training and sprinting, and times for rest and re-evaluation.
+57. Work in the world is essentially divided into two types: work with leverage and work without leverage.
+58. The reason input and output are disconnected is because of tools and leverage. The more creative a profession is, the greater the mismatch between input and output. Professions where input and output are highly correlated are hard to create wealth, and engaging in such professions is also hard to bring wealth to yourself.
+59. Learn to sell, learn to build. People who master both skills will be unstoppable.
+60. Make money with your brain, not with your time.
+61. Selling your skills and renting out your time will only get you slightly above minimum wage.
+62. Start as a salaried employee, aim high, continuously improve your goals, strive to get more leverage effects, take more responsibility, learn more expertise. Combine these, add the magical effect of compound interest, and given time, you can become very wealthy.
+63. Don't do anything illegal or against discipline; nothing is worth risking your freedom and reputation. Avoid catastrophic losses that ruin everything. Avoiding ruin also means not doing things that might threaten your own safety or health. You must take good care of your body.
+64. Don't do things that could make you lose everything. Don't go all in, take desperate risks. Instead, bet on things with high odds of success that can bring huge benefits.
+65. The reason CEOs are paid so well is because of the leverage effect. In terms of judgment and ability, a tiny difference makes a huge difference.
+66. The reason Buffett is called the "stock god" is because his credibility is extremely high. He is extremely responsible for his business, making correct judgments in public again and again. He is known for high integrity, winning society's full trust, plus his excellent judgment, so people dare to bet countless chips on him.
+67. In the age of leverage, it's very important to be extreme in your field.
+68. Ordinary people waste time on short-term thinking, wasting it on useless heavy work. Buffett spends a year deliberating and judging, then takes action in a day. His one day of action can influence decades into the future.
+69. My personal wealth wasn't accumulated quickly in a key year either; it accumulated drop by drop: continuously creating more choices, more businesses, more investments, exploring more things within my ability.
+70. My personal wealth wasn't accumulated quickly in a key year either; it accumulated drop by drop: continuously creating more choices, more businesses, more investments, exploring more things within my ability.
+71. When making decisions, you must consider time as a factor. How long does it take to do this? Suppose something requires a one-hour drive to get; if you set your hourly rate at $100, then this trip basically costs $100—do you still want to go get it yourself?
+72. Make decisions from the perspective of time cost. If outsourcing something costs less than your hourly rate, outsource it; if not doing it costs less than your hourly rate, don't do it; if paying someone costs less than your hourly rate, pay someone. Even cooking is the same principle; you might want to eat healthy home-cooked food, but if you can outsource it, outsource it.
+73. Boldly set a high hourly rate for yourself and stick to it.
+74. If you despise wealth creation in your heart, wealth will avoid you.
+75. When doing business with others, if you have any negative thoughts or evaluations about them, they will feel it. Humans can innately perceive the deep feelings of others. Therefore, in life, you must get rid of the comparison mentality.
+76. In the business world, most people play zero-sum games, while a few play positive-sum games, looking for like-minded people in the crowd.
+77. Money can't solve all problems, but it can solve all money-related problems.
+78. In human evolutionary history, wealth creation is a recent activity, a positive-sum game. Status struggles have existed since ancient times and are a zero-sum game. Those who attack wealth creation are often just pursuing status.
+79. This is why you should avoid playing status games in life, because this scheming, self-interested game makes people mentally unbalanced, irritable and aggressive. You will always aim to belittle opponents and defeat others, thereby letting yourself and those you like rise.
+80. If you play stupid games, you can only win stupid prizes.
+81. Most importantly, spend more time on major decisions. There are three major decisions early in life: where to live, who to be with, and what career to pursue.
+82. The city you live in can almost completely determine a person's life trajectory, but we rarely spend time seriously thinking about which city is more livable.
+83. Find what you're good at, then use your skills to help others: provide free products or services, actively spread kindness to the world. Good will be rewarded. As long as you're consistent, given time, your efforts will surely be rewarded accordingly. But don't keep track of how much you give—once you start keeping track, your patience will be exhausted.
+84. A boss once warned me: "You'll never make big money. Because your intelligence is obvious and obvious to everyone, so people will always offer you 'just right' job opportunities that make you feel reluctant to give up."
+85. I know some people have never thought about starting their own business. The social consensus is that working for others is sensible and wise. But think carefully: how did this long-standing view come about? This idea itself carries obvious hierarchical colors.
+86. I'd rather be a failed entrepreneur than someone who never tried entrepreneurship. Because even a failed entrepreneur has the skills to work independently.
+87. I learned how to make money because money is a life necessity. When the necessity of making money disappears, I no longer care about money. At least for me personally, work is a means to an end. Of course, making money is also a means to an end. But compared to making money, I'm more interested in solving problems.
+88. Life consists of one game after another. A person grows up continuously, playing school games, social games, money-making games, status games from childhood to adulthood. At least for me, these are all games in some sense, just that the influence of games becomes more profound.
+89. The most precious thing in life is freedom.
+90. Retirement means no longer sacrificing today for an imagined tomorrow. When you can live in the present and spend each day with inner fullness, you have reached the state of retirement.
+91. If you truly love something, follow your heart, strive to find the entry point where you can use it to meet real social needs, use leverage to scale, and take responsibility in your personal name.
+92. What things in life are like artistic creation, existing only for themselves without any other purpose? I can think of three examples: loving without reservation, creating as you please, playing without worry.
+93. The reason humans never feel satisfied is that once the desire switch is turned on, it won't automatically turn off at a specific number, as the saying goes: desires are endless. So don't think that once you earn a certain amount of money, you will naturally be satisfied and stop.
+94. The best way to get rid of money greed is: don't upgrade your lifestyle after making money.
+95. People who make money often naturally improve their living standards. Suppose you earn a large sum of money at once, rather than accumulating over time. At this point, you still maintain your original lifestyle and haven't had time to upgrade yet; your money will far exceed your actual needs and desires, which instead makes you reach a state of financial freedom.
+96. I value freedom above all else. The freedom I speak of is diverse: freedom to do whatever you want, freedom not to do what you don't want, freedom not to be influenced by your own emotions or the outside world, etc. Freedom is the value I cherish most.
+97. The most successful people I've seen in Silicon Valley often achieve breakthroughs early in their careers, such as being promoted to vice president, director, or CEO. Some switch to entrepreneurship and quickly achieve good development. If you don't make breakthroughs in your position when young, it's hard to catch up later in your career.
+98. For those just starting their careers (and even at later stages), the most important resource is the network resources the company can bring you. Think about what kind of people you'll work with and how they'll develop in the future.
+99. In the process of acquiring wealth, you must exclude the uncontrollable factor of "luck."
+100. The first type of luck is unexpected luck; a person's good luck comes entirely from things outside their control and unexpected, such as getting unexpected wealth, meeting noble people, etc. The second type of luck comes from persistence, diligence, repeated failures, continuous attempts, obtained by personally creating opportunities. You release a lot of energy, use all your skills, move mountains and seas, press forward. It's like doing scientific experiments, mixing different reagents to see what results can be produced. Because of your unremitting efforts, continuous progress, continuous release of energy and accumulation of strength, good luck finds you. The third way to get good luck is to be good at discovering good luck. If you are skilled and experienced in a certain field, then when that field achieves an unexpected breakthrough, you will be the first to realize it. At this time, others unfamiliar with this field will be indifferent. This is increasing sensitivity to good luck; luck favors prepared minds. The fourth type of luck is the most wonderful and rare: creating a unique personality, unique brand, unique mindset that lets luck find you.
+101. Ways to get good luck: ·Hope for unexpected good luck. ·Keep trying until you hit big luck. ·Be mentally prepared and stay sensitive to opportunities others miss. ·Do what you do to the extreme. Strive for perfection until you are worthy of the name. Let opportunities find you automatically, make luck inevitable.
+102. Ways to get good luck: ·Hope for unexpected good luck. ·Keep trying until you hit big luck. ·Be mentally prepared and stay sensitive to opportunities others miss. ·Do what you do to the extreme. Strive for perfection until you are worthy of the name. Let opportunities find you automatically, make luck inevitable.
+103. Furthermore, if you are trustworthy, reliable, honest and upright, and far-sighted, then when others cooperate with strangers, for safety, they will choose to conduct transactions through you. They will actively find you and give you a portion of the benefits, just because you have established a reputation for honesty and reliability.
+104. "Be a creator, create interesting things that people want. Show your skills, practice your skills, and eventually the right person will find you."
+105. Your moral failings will profoundly affect your mental model; your past is clearly visible to you. If you have too many moral defects, you won't respect yourself. The worst result of living in this world is having no self-esteem. If even you don't love yourself, who else will love you?
+106. With age and experience, I gradually discovered that with enough patience, excellent people will achieve great things.
+107. Success takes time. Even when everything is ready—you've gathered all the elements needed for success—the time required is uncertain. And if you keep calculating time, your patience will be exhausted before success truly arrives.
+108. Be tireless and enjoy what you love, continuously improve, accumulate over time. Don't calculate the time and energy you invest, because once you start calculating, you'll lose patience.
+109. Personal practice is the only way to acquire true knowledge.
+110. Rivers and mountains are easy to change, but nature is hard to move. The so-called "character determines destiny" means a person constantly repeats their behavioral patterns, good and bad, strengths and weaknesses, and ultimately gets results corresponding to their behavior.
+111. Always give actively and continuously contribute, don't haggle and worry about gains and losses.
+112. In the material world, money cannot bring happiness, cannot solve people's health problems, cannot make all families harmonious, cannot make people immune to emotional fluctuations. But money can buy freedom and solve many external problems. So making money is a reasonable goal to strive for.
+113. Provide solutions for new social needs.
       `,
     },
   },
-  { 
-    id: 'note-fe-1',
+  {
+    id: 'note-frontend-1',
     topicId: 'frontend',
-    date: '2026-04-08',
-    kind: { zh: '学习笔记', en: 'Study note' },
+    date: '2026-04-09',
+    kind: { zh: '学习笔记', en: 'Learning note' },
     title: { zh: '嵌入式学习笔记（示例）', en: 'Embedded learning notes (example)' },
     summary: {
       zh: '记录你学到的知识点、常见坑，以及一段最小可运行示例。',
@@ -456,7 +339,7 @@ void main() {
     kind: { zh: '读书笔记', en: 'Reading note' },
     title: { zh: '《穷查理宝典》读书笔记', en: 'Poor Charlie\'s Almanack notes' },
     summary: {
-      zh: '查理·芒格说：“如果你只有一把锤子，你会发现所有问题都像钉子。”',
+      zh: '查理·芒格说："如果你只有一把锤子，你会发现所有问题都像钉子。"',
       en: 'Charlie Munger\'s wisdom: worldly wisdom, mental models, and multidisciplinary learning.',
     },
     content: {
@@ -467,7 +350,7 @@ void main() {
 - 如果我要有拥有一种观点，如果我不能够比全世界最聪明、最有能力，最有资格反驳这个观点的人更能够证否自己，我就不配拥有这个观点。
 - 三个人也能保守秘密，前提是其中俩个已经死掉。
 - 我只想找到将来我会死在什么地方，这样我就不去那儿了。如果要明白人生如何得到幸福，查理首先是研究人生如何才能变得痛苦；要研究企业如何做强做大，查理首先研究企业是如何衰败的；大部分人更关心如何在股市投资上成功，查理最关心的是为什么在股市投资上大部分人都失败了。
-- 要学习所有学科中真正重要的理论，并在此基础上形成所谓的“普世智慧”，以此为利器去研究商业投资领域的的重要问题。
+- 要学习所有学科中真正重要的理论，并在此基础上形成所谓的"普世智慧"，以此为利器去研究商业投资领域的的重要问题。
 - 空麻袋立不起来。
 - 讲价最怕急需时。
 - 不把事管好，就要被事管。
@@ -484,15 +367,13 @@ void main() {
 - 《大学》曰：正心，修身，齐家，治国，平天下。
 - 无论顺境、逆境，都保持客观积极的心态。
 
-
-
 ## 普世智慧
 - 掌握多种思维模型。如果你只有一把锤子，你会发现所有问题都像钉子。
 - 逆向思维：反过来想，总是反过来想。
 - 坚持凡事看长远。
 
 ## 投资原则
-- 待在你的“能力圈”内。
+- 待在你的"能力圈"内。
 - 投资就是寻找价格低于价值的机会。
 
 ## 总结
@@ -501,12 +382,34 @@ void main() {
       en: `
 # Notes on Poor Charlie's Almanack
 
+## Excerpts
+- If I were to have a view, if I cannot be more capable than the smartest, most capable, most qualified person in the world to refute this view, I am not worthy of holding this view.
+- Three people can also keep a secret, provided that two of them are already dead.
+- I just want to find where I will die in the future, so I won't go there. To understand how to get happiness in life, Charlie first studies how life can become painful; to study how to make enterprises strong and big, Charlie first studies how enterprises fail; most people care more about how to succeed in stock market investment, while Charlie cares most about why most people fail in stock market investment.
+- To learn the truly important theories in all disciplines, and on this basis form the so-called "worldly wisdom," using this as a sharp tool to study important issues in the field of commercial investment.
+- An empty sack cannot stand up.
+- Bargaining is most afraid when urgently needed.
+- If you don't manage things well, you will be managed by things.
+- Whoever is an enemy must be taken seriously.
+- If you love yourself, you will be invincible.
+- Acquire worldly wisdom and adjust your behavior accordingly, even if your maverick makes you unpopular in the crowd, then let them go.
+- A person's success is not accidental; timing is certainly important, but a person's inner qualities are more important.
+- Others don't see waiting as waiting; they do their own things while waiting.
+- What I want all my life is to integrate into life, and I don't want to be isolated.
+- As long as I have a book in my hand, I won't feel like I'm wasting time.
+- When he travels alone, whether for official or private business, he takes economy class, but when traveling with his wife and family, Charlie will take his private plane. He explains: My wife has raised so many children for me all her life, giving a lot, and her health is not good, so I must take good care of her.
+- Once Charlie decides to do something, he can do it for a lifetime.
+- Someone asked Charlie how to find an excellent spouse, and Charlie said the best way is to make yourself worthy of her, because excellent spouses are not fools.
+- "The Great Learning" says: Rectify the mind, cultivate oneself, regulate the family, govern the country, bring peace to the world.
+- Whether in favorable or adverse circumstances, maintain an objective and positive attitude.
+
 ## Worldly Wisdom
-- Master multiple mental models. If you only have a hammer, everything looks like a nail.
+- Master multiple mental models. If you only have a hammer, you will find that all problems look like nails.
 - Inversion: Invert, always invert.
+- Always look at things from a long-term perspective.
 
 ## Investment Principles
-- Stay within your "Circle of Competence".
+- Stay within your "circle of competence."
 - Investing is finding opportunities where price is below value.
 
 ## Conclusion
@@ -526,12 +429,12 @@ export default function NotesPage() {
   }, [activeTopicId])
 
   return (
-    <div className="space-y-6">
-      <header>
+    <div className="max-w-6xl mx-auto px-4 space-y-6">
+      <header className="text-center">
         <h1 className="art-title text-3xl font-semibold tracking-tight md:text-4xl">
           {t('notes.title')}
         </h1>
-        <p className="mt-2 max-w-2xl text-[color:var(--muted)]">{t('notes.subtitle')}</p>
+        <p className="mt-2 max-w-2xl mx-auto text-[color:var(--muted)]">{t('notes.subtitle')}</p>
       </header>
 
       <div className="grid gap-6 md:grid-cols-[220px_1fr]">

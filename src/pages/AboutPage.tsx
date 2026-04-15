@@ -1,15 +1,15 @@
-﻿import { useI18n } from '../i18n/i18n'
+import { useI18n } from '../i18n/i18n'
 
 export default function AboutPage() {
   const { t } = useI18n()
 
   return (
-    <div className="space-y-6">
-      <header>
+    <div className="max-w-4xl mx-auto px-4 space-y-6">
+      <header className="text-center">
         <h1 className="art-title text-3xl font-semibold tracking-tight md:text-4xl">
           {t('about.title')}
         </h1>
-        <p className="mt-2 max-w-2xl text-zinc-200/80">
+        <p className="mt-2 max-w-2xl mx-auto text-zinc-200/80">
           {t('about.subtitle')}
         </p>
       </header>
@@ -18,8 +18,8 @@ export default function AboutPage() {
         <div className="flex items-center gap-3">
           <div className="h-px flex-1 bg-gradient-to-r from-transparent via-white/10 to-transparent" />
         </div>
-        <h2 className="art-title mt-5 text-lg font-semibold">{t('about.section.basic')}</h2>
-        <ul className="mt-4 list-disc space-y-2 pl-5 text-zinc-200/75">
+        <h2 className="art-title mt-5 text-lg font-semibold text-center">{t('about.section.basic')}</h2>
+        <ul className="mt-4 list-disc space-y-2 pl-5 text-zinc-200/75 max-w-md mx-auto">
           <li>{t('about.basic.city')}</li>
           <li>{t('about.basic.focus')}</li>
           <li>{t('about.basic.contact')}</li>

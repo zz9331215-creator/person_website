@@ -54,12 +54,12 @@ export default function BlogPage() {
   const { lang, t } = useI18n()
 
   return (
-    <div className="space-y-12">
-      <header>
+    <div className="max-w-4xl mx-auto px-4 space-y-12">
+      <header className="text-center">
         <h1 className="art-title text-3xl font-semibold tracking-tight md:text-4xl">
           {t('blog.title')}
         </h1>
-        <p className="mt-2 max-w-2xl text-[color:var(--muted)]">{t('blog.subtitle')}</p>
+        <p className="mt-2 max-w-2xl mx-auto text-[color:var(--muted)]">{t('blog.subtitle')}</p>
       </header>
 
       <div className="grid gap-8">
@@ -90,7 +90,7 @@ export default function BlogPage() {
             </article>
           ))
         ) : (
-          <p className="text-[color:var(--muted)]">{t('blog.empty')}</p>
+          <p className="text-center text-[color:var(--muted)]">{t('blog.empty')}</p>
         )}
       </div>
     </div>

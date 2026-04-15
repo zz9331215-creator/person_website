@@ -94,7 +94,7 @@ export default function NoteDetailPage() {
             onClick={() => setActiveChapter(null)}
             className="text-sm text-cyan-400 hover:text-cyan-300 transition-colors"
           >
-            {lang === 'zh' ? '返回章节目录' : 'Back to Chapters'}
+            {lang === 'zh' ? '?????????' : 'Back to Chapters'}
           </button>
         )}
       </div>
@@ -122,7 +122,7 @@ export default function NoteDetailPage() {
             <svg className="mr-2 h-5 w-5 text-cyan-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 12h16M4 18h7" />
             </svg>
-            {lang === 'zh' ? '章节目录' : 'Chapters'}
+            {lang === 'zh' ? '?????' : 'Chapters'}
           </h3>
           <div className="grid gap-3">
             {chapters.map((chapter, idx) => (
@@ -159,7 +159,7 @@ export default function NoteDetailPage() {
             <svg className="h-4 w-4 text-cyan-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 12h16M4 18h7" />
             </svg>
-            <span>{lang === 'zh' ? '查看更多章节' : 'View more chapters'}</span>
+            <span>{lang === 'zh' ? '?????????' : 'View more chapters'}</span>
           </button>
         </div>
       )}

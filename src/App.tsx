@@ -1,4 +1,4 @@
-import { NavLink, Route, Routes } from 'react-router-dom'
+import { NavLink, Route, Routes, Link } from 'react-router-dom'
 import { useI18n } from './i18n/i18n'
 import HomePage from './pages/HomePage'
 import AboutPage from './pages/AboutPage'
@@ -13,118 +13,65 @@ function App() {
   const { lang, setLang, t } = useI18n()
 
   return (
-    <div className="min-h-dvh selection:bg-fuchsia-400/25 selection:text-zinc-50">
-      <header className="sticky top-0 z-20 border-b border-[color:var(--border)] bg-[color:rgba(10,10,14,0.18)] backdrop-blur">
-        <div className="mx-auto flex max-w-5xl items-center justify-between gap-4 px-4 py-4">
-          <div className="flex items-baseline gap-2">
-            <div className="art-title text-lg font-semibold tracking-tight">
+    <div className="min-h-dvh selection:bg-fuchsia-400/25 selection:text-zinc-50 flex flex-col">
+      <header className="sticky top-0 z-30 border-b border-white/5 bg-[#050508]/40 backdrop-blur-xl">
+        <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-4">
+          <Link to="/" className="flex items-center gap-3 group">
+            <div className="h-8 w-8 rounded-full bg-gradient-to-tr from-violet-500 to-cyan-400 p-0.5 transition-transform group-hover:scale-110">
+              <div className="h-full w-full rounded-full bg-[#050508] flex items-center justify-center text-[10px] font-bold text-white">
+                WY
+              </div>
+            </div>
+            <span className="art-title text-sm font-bold tracking-widest uppercase hidden sm:block text-white">
               {t('site.title')}
-            </div>
-            <div className="hidden h-1.5 w-1.5 rounded-full bg-white/30 md:block" />
-            <div className="hidden text-xs text-[color:var(--muted)] md:block">
-              studio notes - blog - projects - code
-            </div>
-          </div>
+            </span>
+          </Link>
 
-          <nav className="flex flex-wrap items-center gap-1.5 text-sm text-[color:var(--muted)]">
-            <NavLink
-              to="/"
-              className={({ isActive }) =>
-                [
-                  'relative rounded-md px-3 py-1.5 transition hover:text-white',
-                  'after:pointer-events-none after:absolute after:inset-x-3 after:-bottom-0.5 after:h-px',
-                  'after:bg-gradient-to-r from-violet-300 via-cyan-200 to-rose-300 after:opacity-0 after:transition',
-                  isActive ? 'bg-white/6 text-white after:opacity-100' : 'hover:bg-white/5 hover:after:opacity-80',
-                ].join(' ')
-              }
-              end
-            >
-              {t('nav.home')}
-            </NavLink>
-            <NavLink
-              to="/about"
-              className={({ isActive }) =>
-                [
-                  'relative rounded-md px-3 py-1.5 transition hover:text-white',
-                  'after:pointer-events-none after:absolute after:inset-x-3 after:-bottom-0.5 after:h-px',
-                  'after:bg-gradient-to-r from-violet-300 via-cyan-200 to-rose-300 after:opacity-0 after:transition',
-                  isActive ? 'bg-white/6 text-white after:opacity-100' : 'hover:bg-white/5 hover:after:opacity-80',
-                ].join(' ')
-              }
-            >
-              {t('nav.about')}
-            </NavLink>
-            <NavLink
-              to="/projects"
-              className={({ isActive }) =>
-                [
-                  'relative rounded-md px-3 py-1.5 transition hover:text-white',
-                  'after:pointer-events-none after:absolute after:inset-x-3 after:-bottom-0.5 after:h-px',
-                  'after:bg-gradient-to-r from-violet-300 via-cyan-200 to-rose-300 after:opacity-0 after:transition',
-                  isActive ? 'bg-white/6 text-white after:opacity-100' : 'hover:bg-white/5 hover:after:opacity-80',
-                ].join(' ')
-              }
-            >
-              {t('nav.projects')}
-            </NavLink>
-            <NavLink
-              to="/notes"
-              className={({ isActive }) =>
-                [
-                  'relative rounded-md px-3 py-1.5 transition hover:text-white',
-                  'after:pointer-events-none after:absolute after:inset-x-3 after:-bottom-0.5 after:h-px',
-                  'after:bg-gradient-to-r from-violet-300 via-cyan-200 to-rose-300 after:opacity-0 after:transition',
-                  isActive ? 'bg-white/6 text-white after:opacity-100' : 'hover:bg-white/5 hover:after:opacity-80',
-                ].join(' ')
-              }
-            >
-              {t('nav.notes')}
-            </NavLink>
-            <NavLink
-              to="/blog"
-              className={({ isActive }) =>
-                [
-                  'relative rounded-md px-3 py-1.5 transition hover:text-white',
-                  'after:pointer-events-none after:absolute after:inset-x-3 after:-bottom-0.5 after:h-px',
-                  'after:bg-gradient-to-r from-violet-300 via-cyan-200 to-rose-300 after:opacity-0 after:transition',
-                  isActive ? 'bg-white/6 text-white after:opacity-100' : 'hover:bg-white/5 hover:after:opacity-80',
-                ].join(' ')
-              }
-            >
-              {t('nav.blog')}
-            </NavLink>
-            <NavLink
-              to="/code"
-              className={({ isActive }) =>
-                [
-                  'relative rounded-md px-3 py-1.5 transition hover:text-white',
-                  'after:pointer-events-none after:absolute after:inset-x-3 after:-bottom-0.5 after:h-px',
-                  'after:bg-gradient-to-r from-violet-300 via-cyan-200 to-rose-300 after:opacity-0 after:transition',
-                  isActive ? 'bg-white/6 text-white after:opacity-100' : 'hover:bg-white/5 hover:after:opacity-80',
-                ].join(' ')
-              }
-            >
-              {t('nav.code')}
-            </NavLink>
-
-            <div className="ml-2 hidden h-6 w-px bg-white/10 md:block" />
-            <div className="flex items-center gap-2 pl-1">
-              <span className="hidden text-xs text-[color:var(--muted)] md:inline">
-                {t('nav.lang')}
-              </span>
-              <button
-                type="button"
-                onClick={() => setLang(lang === 'zh' ? 'en' : 'zh')}
-                className="rounded-md bg-white/5 px-2 py-1 transition hover:bg-white/10 hover:text-white"
+          <nav className="absolute left-1/2 -translate-x-1/2 hidden md:flex items-center gap-1 bg-white/5 rounded-full p-1 border border-white/5">
+            {[
+              { to: '/', label: t('nav.home') },
+              { to: '/projects', label: t('nav.projects') },
+              { to: '/blog', label: t('nav.blog') },
+              { to: '/notes', label: t('nav.notes') },
+              { to: '/about', label: t('nav.about') },
+            ].map((link) => (
+              <NavLink
+                key={link.to}
+                to={link.to}
+                className={({ isActive }) =>
+                  [
+                    'px-5 py-1.5 text-xs font-medium transition-all rounded-full text-center min-w-[80px]',
+                    isActive ? 'bg-white text-black shadow-lg' : 'text-zinc-400 hover:text-white hover:bg-white/5',
+                  ].join(' ')
+                }
+                end={link.to === '/'}
               >
-                {lang === 'zh' ? 'EN' : '??'}
-              </button>
-            </div>
+                {link.label}
+              </NavLink>
+            ))}
           </nav>
+
+          <div className="flex items-center gap-4 text-white">
+            <button
+              onClick={() => setLang(lang === 'zh' ? 'en' : 'zh')}
+              className="text-[10px] font-bold tracking-widest uppercase text-zinc-500 hover:text-white transition-colors"
+            >
+              {lang === 'zh' ? 'EN' : 'ZH'}
+            </button>
+            <a
+              href="#"
+              className="hidden sm:flex items-center gap-2 rounded-full bg-white/5 px-4 py-2 text-xs font-bold transition-all hover:bg-white hover:text-black border border-white/10"
+            >
+              <svg className="h-3 w-3" fill="currentColor" viewBox="0 0 24 24">
+                <path d="M12 16l-5-5h10l-5 5zm0-12c-4.418 0-8 3.582-8 8s3.582 8 8 8 8-3.582 8-8-3.582-8-8-8zm0 14c-3.309 0-6-2.691-6-6s2.691-6 6-6 6 2.691 6 6-2.691 6-6 6z" />
+              </svg>
+              PDF Resume
+            </a>
+          </div>
         </div>
       </header>
 
-      <main className="mx-auto max-w-5xl px-4 py-12 md:py-20">
+      <main className="flex-1 relative">
         <Routes>
           <Route path="/" element={<HomePage />} />
           <Route path="/about" element={<AboutPage />} />
@@ -140,7 +87,7 @@ function App() {
       <footer className="mt-auto border-t border-[color:var(--border)] py-12">
         <div className="mx-auto max-w-5xl px-4 text-center text-sm text-[color:var(--muted)]">
           <p>{t('footer.builtWith')}</p>
-          <p className="mt-2 opacity-50">? {new Date().getFullYear()} Studio</p>
+          <p className="mt-2 opacity-50">(c) {new Date().getFullYear()} Studio</p>
         </div>
       </footer>
     </div>
