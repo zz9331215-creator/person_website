@@ -60,10 +60,10 @@ const tools: Tool[] = [
   },
   {
     id: 'website-4',
-    name: 'IMDb',
-    description: '电影数据库和评分网站',
+    name: '厂长资源',
+    description: '高清电影',
     category: 'websites',
-    url: 'https://www.imdb.com/',
+    url: 'https://www.czzy89.com/',
     icon: '🎬'
   },
   {
@@ -84,11 +84,11 @@ const tools: Tool[] = [
   },
   {
     id: 'ai-3',
-    name: 'Bard',
+    name: 'gemini',
     description: 'Google 的 AI 对话系统',
     category: 'ai',
-    url: 'https://bard.google.com/',
-    icon: '🔍'
+    url: 'https://gemini.google.com/app',
+    icon: '✨'
   }
 ]
 
