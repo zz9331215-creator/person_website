@@ -33,6 +33,7 @@ function App() {
               { to: '/projects', label: t('nav.projects') },
               { to: '/blog', label: t('nav.blog') },
               { to: '/notes', label: t('nav.notes') },
+              { to: '/code', label: '工具' },
               { to: '/about', label: t('nav.about') },
             ].map((link) => (
               <NavLink
