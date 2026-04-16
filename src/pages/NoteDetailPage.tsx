@@ -106,7 +106,7 @@ export default function NoteDetailPage() {
             <img 
               src={note.cover} 
               alt={lang === 'zh' ? note.title.zh : note.title.en}
-              className="w-full h-64 object-cover"
+              className="w-full h-48 object-cover"
             />
           </div>
         )}

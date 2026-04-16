@@ -487,7 +487,7 @@ export default function NotesPage() {
                     <img 
                       src={note.cover} 
                       alt={lang === 'zh' ? note.title.zh : note.title.en}
-                      className="w-full h-40 object-cover transition-transform duration-500 group-hover:scale-105"
+                      className="w-full h-32 object-cover transition-transform duration-500 group-hover:scale-105"
                     />
                   </div>
                 )}
