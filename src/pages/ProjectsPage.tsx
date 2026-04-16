@@ -8,9 +8,9 @@ const projects = [
     link: 'https://github.com/yourname/your-project',
   },
   {
-    name: '项目 B（示例）',
-    desc: '可以写成工具、课程项目、开源贡献等。',
-    tags: ['Node.js', 'API'],
+    name: '2025电赛e题',
+    desc: '视觉相关代码，识别颜色、矩形框，脱机调阈值',
+    tags: ['python', 'k230'],
     link: 'https://github.com/yourname/another-project',
   },
 ]
