@@ -16,13 +16,13 @@ export type Note = {
   kind: { zh: string; en: string }
   summary: { zh: string; en: string }
   content: { zh: string; en: string }
+  cover?: string
 }
 
 const topics: Topic[] = [
   { id: 'reading', zh: '读书', en: 'Reading' },
   { id: 'frontend', zh: '嵌入式学习', en: 'Embedded learning' },
   { id: 'backend', zh: '软件和网站', en: 'Software and website' },
-  { id: 'tools', zh: '工具', en: 'Tools' },
 ]
 
 export const notes: Note[] = [
@@ -36,6 +36,7 @@ export const notes: Note[] = [
       zh: '赚钱是一门技能，财富是在睡觉时也能为你赚钱的资产。',
       en: 'Chapter 1: Accumulating Wealth. Making money is a skill; wealth is assets that earn while you sleep.',
     },
+    cover: 'https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=The%20Almanack%20of%20Naval%20Ravikant%20book%20cover%2C%20minimalist%20design%2C%20blue%20and%20gold%20colors%2C%20professional%20business%20book%20cover&image_size=square',
     content: {
       zh: `
 # 《纳瓦尔宝典》读书笔记
@@ -480,6 +481,15 @@ export default function NotesPage() {
                 to={`/notes/${note.id}`}
                 className="glass-card group flex flex-col rounded-3xl p-5 transition hover:-translate-y-0.5 hover:border-white/20"
               >
+                {note.cover && (
+                  <div className="mb-4 overflow-hidden rounded-xl">
+                    <img 
+                      src={note.cover} 
+                      alt={lang === 'zh' ? note.title.zh : note.title.en}
+                      className="w-full h-40 object-cover transition-transform duration-500 group-hover:scale-105"
+                    />
+                  </div>
+                )}
                 <div className="flex items-center justify-between text-[10px] uppercase tracking-wider text-[color:var(--muted)]">
                   <span>{lang === 'zh' ? note.kind.zh : note.kind.en}</span>
                   <span>{note.date}</span>

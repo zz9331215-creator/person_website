@@ -100,6 +100,15 @@ export default function NoteDetailPage() {
       </div>
 
       <header className="mb-12">
+        {note.cover && (
+          <div className="mb-8 overflow-hidden rounded-2xl">
+            <img 
+              src={note.cover} 
+              alt={lang === 'zh' ? note.title.zh : note.title.en}
+              className="w-full h-64 object-cover"
+            />
+          </div>
+        )}
         <div className="flex items-center space-x-3 text-sm text-[color:var(--muted)] mb-4">
           <span>{note.date}</span>
           <span className="opacity-30">?</span>
