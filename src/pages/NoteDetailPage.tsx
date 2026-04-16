@@ -2,6 +2,7 @@ import { useParams, Link } from 'react-router-dom'
 import { useState, useMemo } from 'react'
 import { useI18n } from '../i18n/i18n'
 import { notes } from './NotesPage'
+import nawaerCover from '../assets/nawaer.png'
 
 export default function NoteDetailPage() {
   const { id } = useParams()

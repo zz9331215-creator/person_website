@@ -1,6 +1,7 @@
 import { useMemo, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { useI18n } from '../i18n/i18n'
+import nawaerCover from '../assets/nawaer.png'
 
 type Topic = {
   id: string
@@ -36,7 +37,7 @@ export const notes: Note[] = [
       zh: '赚钱是一门技能，财富是在睡觉时也能为你赚钱的资产。',
       en: 'Chapter 1: Accumulating Wealth. Making money is a skill; wealth is assets that earn while you sleep.',
     },
-    cover: 'https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=The%20Almanack%20of%20Naval%20Ravikant%20book%20cover%2C%20minimalist%20design%2C%20blue%20and%20gold%20colors%2C%20professional%20business%20book%20cover&image_size=square',
+    cover: nawaerCover,
     content: {
       zh: `
 # 《纳瓦尔宝典》读书笔记
