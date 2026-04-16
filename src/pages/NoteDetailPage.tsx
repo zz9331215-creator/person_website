@@ -3,6 +3,7 @@ import { useState, useMemo } from 'react'
 import { useI18n } from '../i18n/i18n'
 import { notes } from './NotesPage'
 import nawaerCover from '../assets/nawaer.png'
+import qiongchaliCover from '../assets/qiongchali.png'
 
 export default function NoteDetailPage() {
   const { id } = useParams()
@@ -106,7 +107,7 @@ export default function NoteDetailPage() {
             <img 
               src={note.cover} 
               alt={lang === 'zh' ? note.title.zh : note.title.en}
-              className="w-full h-48 object-cover"
+              className="w-full h-96 object-cover"
             />
           </div>
         )}

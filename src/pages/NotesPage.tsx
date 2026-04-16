@@ -2,6 +2,7 @@ import { useMemo, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { useI18n } from '../i18n/i18n'
 import nawaerCover from '../assets/nawaer.png'
+import qiongchaliCover from '../assets/qiongchali.png'
 
 type Topic = {
   id: string
@@ -334,7 +335,7 @@ void main() {
       `,
     },
   },
-  {
+  { 
     id: 'note-reading-2',
     topicId: 'reading',
     date: '2026-04-11',
@@ -344,6 +345,7 @@ void main() {
       zh: '查理·芒格说："如果你只有一把锤子，你会发现所有问题都像钉子。"',
       en: 'Charlie Munger\'s wisdom: worldly wisdom, mental models, and multidisciplinary learning.',
     },
+    cover: qiongchaliCover,
     content: {
       zh: `
 # 《穷查理宝典》读书笔记
@@ -487,7 +489,7 @@ export default function NotesPage() {
                     <img 
                       src={note.cover} 
                       alt={lang === 'zh' ? note.title.zh : note.title.en}
-                      className="w-full h-32 object-cover transition-transform duration-500 group-hover:scale-105"
+                      className="w-full h-52 object-cover transition-transform duration-500 group-hover:scale-105"
                     />
                   </div>
                 )}
